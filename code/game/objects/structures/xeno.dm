@@ -875,13 +875,13 @@ TUNNEL
 			to_chat(X, "<span class='xenoannounce'>[src] is already being filled!</span>")
 			return
 		ccharging = TRUE
-		if(!do_after(X, 10 SECONDS, FALSE, src, BUSY_ICON_BUILD))
+		if(!do_after(X, 2 SECONDS, FALSE, src, BUSY_ICON_BUILD))
 			ccharging = FALSE
 			return
-		if(X.plasma_stored < 200)
+		if(X.plasma_stored < 100)
 			ccharging = FALSE
 			return
-		X.plasma_stored -= 200
+		X.plasma_stored -= 100
 		charges++
 		ccharging = FALSE
 		update_icon()
