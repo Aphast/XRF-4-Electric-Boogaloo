@@ -30,10 +30,6 @@
 
 	log_combat(user, M, "attempted to flash", src)
 
-	if(user.skills.getRating("police") < SKILL_POLICE_FLASH)
-		to_chat(user, "<span class='warning'>You don't seem to know how to use [src]...</span>")
-		return
-
 	if(broken)
 		to_chat(user, "<span class='warning'>\The [src] is broken.</span>")
 		return
@@ -87,10 +83,6 @@
 
 /obj/item/flash/attack_self(mob/living/carbon/user as mob, flag = 0, emp = 0)
 	if(!user)
-		return
-
-	if(user.skills.getRating("police") < SKILL_POLICE_FLASH)
-		to_chat(user, "<span class='warning'>You don't seem to know how to use [src]...</span>")
 		return
 
 	if(broken)

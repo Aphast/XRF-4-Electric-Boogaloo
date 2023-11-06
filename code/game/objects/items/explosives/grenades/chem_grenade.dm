@@ -363,9 +363,6 @@
 
 
 /obj/item/explosive/grenade/chem_grenade/teargas/attack_self(mob/user)
-	if(user.skills.getRating("police") < SKILL_POLICE_MP)
-		to_chat(user, "<span class='warning'>You don't seem to know how to use [src]...</span>")
-		return
 	return ..()
 
 
