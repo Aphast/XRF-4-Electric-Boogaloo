@@ -16,38 +16,3 @@ map lv624
 	default
 	minplayers 1
 endmap
-
-map bigred_v2
-	minplayers 25
-	maxplayers 60
-endmap
-
-map ice_colony_v2
-	minplayers 1
-	maxplayers 60
-endmap
-
-map prison_station_fop
-	minplayers 25
-	maxplayers 60
-endmap
-
-map icy_caves
-    minplayers 1
-	maxplayers 60
-endmap
-
-map research_outpost
-    minplayers 1
-	maxplayers 25
-endmap
-
-map barrenquilla_mining
-	minplayers 1
-	maxplayers 25
-endmap
-
-map magmoor_digsite_iv
-	minplayers 1
-	maxplayers 25
-endmap
