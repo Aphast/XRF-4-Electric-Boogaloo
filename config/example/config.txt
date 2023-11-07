@@ -111,8 +111,6 @@ LOBBY_MUSIC 2 https://youtu.be/EslVBQL3Zt8 1 180
 LOBBY_MUSIC 3 https://youtu.be/uV9s1a6AZT0 1 180
 #Blood upon the risers
 LOBBY_MUSIC 4 https://youtu.be/vzrYgDnewSI 1 180
-#Dawson's Christian
-LOBBY_MUSIC 5 https://youtu.be/w34fSnJNP-4 1 180
 #Bomber
 LOBBY_MUSIC 6 https://youtu.be/OlkH687M4YM 1 180
 #Sam Jones
@@ -199,8 +197,8 @@ CHECK_RANDOMIZER
 MAXIMUM_CLIENTS_FOR_GAMEMODE_VOTE 40
 
 ## Uncomment these to set a custom respawn timer; the delay is in ticks.
-#MARINE_RESPAWN 18000
-#XENO_RESPAWN 1200
+#MARINE_RESPAWN 600
+#XENO_RESPAWN 600
 
 ## Account Age Requirements
 ## If the flag is un-commented clients will not be allowed to connect if they do not meet the age requirements
@@ -239,7 +237,7 @@ END_OF_ROUND_DEATHMATCH
 ## Skyrat Config
 
 ## Uncomment to prevent young accounts from connecting unless they're admins or allowed through bunker
-#AGE_LOCK
+AGE_LOCK
 
 ## Required age in days if you enabled above
 AGE_LOCK_DAYS 30
