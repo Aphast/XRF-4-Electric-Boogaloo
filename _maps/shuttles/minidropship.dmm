@@ -1,9 +1,9 @@
 //MAP CONVERTED BY dmm2tgm.py THIS HEADER COMMENT PREVENTS RECONVERSION, DO NOT REMOVE
 "a" = (
-/obj/structure/window/framed/mainship/spaceworthy{
-	icon_state = "col_window10"
+/obj/structure/closet/toolcloset,
+/turf/open/floor/mainship/blue{
+	dir = 4
 	},
-/turf/open/floor/mainship_hull,
 /area/shuttle/minidropship)
 "b" = (
 /obj/effect/attach_point/weapon/minidropship,
@@ -15,15 +15,28 @@
 	},
 /area/shuttle/minidropship)
 "i" = (
+/obj/structure/bed/chair/dropship/passenger{
+	dir = 4
+	},
+/obj/machinery/light{
+	dir = 8
+	},
+/obj/machinery/vending/nanomed,
 /turf/open/floor/mainship/orange{
 	dir = 9
 	},
 /area/shuttle/minidropship)
 "j" = (
 /obj/machinery/door_control{
-	id = "minidropship_podlock";
 	name = "outer door-control";
-	pixel_y = 32
+	pixel_y = 32;
+	id = "minidropship_podlock"
+	},
+/obj/structure/bed/chair/dropship/passenger{
+	dir = 8
+	},
+/obj/machinery/light{
+	dir = 4
 	},
 /turf/open/floor/mainship/orange{
 	dir = 5
@@ -36,18 +49,16 @@
 /turf/open/floor/mainship_hull,
 /area/shuttle/minidropship)
 "r" = (
-/obj/machinery/light{
-	dir = 8
+/obj/structure/bed/chair/dropship/pilot{
+	dir = 1
 	},
-/turf/open/floor/mainship/orange{
-	dir = 8
-	},
+/turf/open/floor/mainship/floor,
 /area/shuttle/minidropship)
 "s" = (
 /turf/open/floor/mainship/floor,
 /area/shuttle/minidropship)
 "u" = (
-/obj/machinery/computer/camera_advanced/shuttle_docker/minidropship,
+/obj/machinery/door/airlock/hatch/cockpit/two,
 /turf/open/floor/mainship/orange,
 /area/shuttle/minidropship)
 "v" = (
@@ -63,28 +74,53 @@
 	dir = 10
 	},
 /area/shuttle/minidropship)
+"w" = (
+/obj/machinery/light{
+	dir = 4
+	},
+/obj/structure/bed/chair/dropship/passenger{
+	dir = 8
+	},
+/turf/open/floor/mainship/orange{
+	dir = 4
+	},
+/area/shuttle/minidropship)
+"y" = (
+/obj/machinery/computer/camera_advanced/shuttle_docker/minidropship,
+/obj/machinery/light{
+	dir = 1
+	},
+/turf/open/floor/mainship/floor,
+/area/shuttle/minidropship)
 "B" = (
 /turf/closed/wall/mainship/outer/reinforced,
+/area/shuttle/minidropship)
+"D" = (
+/obj/machinery/light{
+	dir = 8
+	},
+/obj/structure/bed/chair/dropship/passenger{
+	dir = 4
+	},
+/turf/open/floor/mainship/orange{
+	dir = 8
+	},
 /area/shuttle/minidropship)
 "E" = (
 /turf/template_noop,
 /area/space)
 "F" = (
-/obj/docking_port/mobile/marine_dropship/minidropship,
-/obj/structure/bed/chair/dropship/pilot{
-	dir = 1
+/obj/item/stack/barbed_wire/small_stack{
+	amount = 7
 	},
+/obj/docking_port/mobile/marine_dropship/minidropship,
 /turf/open/floor/mainship/orange{
 	dir = 1
 	},
 /area/shuttle/minidropship)
 "I" = (
-/obj/machinery/light{
-	dir = 4
-	},
-/turf/open/floor/mainship/orange{
-	dir = 4
-	},
+/obj/structure/shuttle/engine/propulsion/burst/right,
+/turf/template_noop,
 /area/shuttle/minidropship)
 "K" = (
 /obj/structure/window/framed/mainship/spaceworthy{
@@ -93,8 +129,11 @@
 /turf/open/floor/mainship_hull,
 /area/shuttle/minidropship)
 "L" = (
-/obj/structure/shuttle/engine/propulsion/burst/left,
-/turf/open/shuttle/dropship/three,
+/obj/structure/table/mainship,
+/obj/machinery/cell_charger,
+/turf/open/floor/mainship/blue{
+	dir = 9
+	},
 /area/shuttle/minidropship)
 "N" = (
 /obj/machinery/door/poddoor/shutters/transit{
@@ -119,6 +158,18 @@
 	dir = 4
 	},
 /area/shuttle/minidropship)
+"P" = (
+/obj/structure/table/mainship,
+/obj/structure/table/mainship,
+/obj/item/storage/firstaid/adv{
+	pixel_x = 6;
+	pixel_y = 6
+	},
+/obj/item/flashlight,
+/turf/open/floor/mainship/blue{
+	dir = 5
+	},
+/area/shuttle/minidropship)
 "R" = (
 /obj/machinery/door/poddoor/shutters/transit{
 	dir = 2
@@ -133,10 +184,9 @@
 	},
 /area/shuttle/minidropship)
 "S" = (
-/obj/structure/window/framed/mainship/spaceworthy{
-	icon_state = "col_window6"
+/turf/open/floor/mainship/blue{
+	dir = 8
 	},
-/turf/open/floor/mainship_hull,
 /area/shuttle/minidropship)
 "T" = (
 /obj/structure/barricade/plasteel{
@@ -151,8 +201,10 @@
 	},
 /area/shuttle/minidropship)
 "U" = (
-/obj/structure/shuttle/engine/propulsion/burst/right,
-/turf/open/shuttle/dropship/three,
+/obj/structure/largecrate/supply/supplies/mre,
+/turf/open/floor/mainship/orange{
+	dir = 4
+	},
 /area/shuttle/minidropship)
 "V" = (
 /turf/open/floor/mainship/orange{
@@ -167,77 +219,77 @@
 (1,1,1) = {"
 E
 E
+b
+I
 E
 E
 E
-E
-E
-E
-E
+B
+I
 "}
 (2,1,1) = {"
-E
-E
-E
-b
+B
+K
+B
+B
+B
 O
 O
 B
-L
-E
+B
 "}
 (3,1,1) = {"
-E
-E
-S
 K
+L
+S
+B
 i
 V
-r
+V
+D
 v
-E
 "}
 (4,1,1) = {"
-E
-E
 n
+y
+r
 u
 F
 Y
 s
+s
 N
-E
 "}
 (5,1,1) = {"
-E
-E
-a
 K
+P
+a
+B
 j
+U
 h
-I
+w
 R
-E
 "}
 (6,1,1) = {"
-E
-E
-E
-b
+B
+K
+B
+B
+B
 T
 T
 B
-U
-E
+B
 "}
 (7,1,1) = {"
 E
 E
+b
+I
 E
 E
 E
-E
-E
-E
-E
+B
+I
 "}
