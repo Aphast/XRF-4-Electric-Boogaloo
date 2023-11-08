@@ -65,7 +65,7 @@
 "Um" = (/turf/closed/wall/mainship,/area/mainship/hallways/port_hallway{outside = 0; name = "NTC Eagle Dropship"})
 "WD" = (/obj/structure/cable,/obj/structure/ladder{id = "eagleladder1"; height = 2},/obj/effect/landmark/start/job/chiefshipengineer,/turf/open/floor/plating/plating_catwalk,/area/mainship/hallways/port_hallway{outside = 0; name = "NTC Eagle Dropship"})
 "Xw" = (/obj/structure/bed/chair/dropship/pilot{dir = 1},/obj/effect/landmark/start/job/fieldcommander,/turf/open/floor/mainship,/area/mainship/hallways/port_hallway{outside = 0; name = "NTC Eagle Dropship"})
-"YE" = (/turf/open/floor/mainship,/area/mainship/hallways/port_hallway{outside = 0; name = "NTC Eagle Dropship"})
+"YE" = (/obj/structure/largecrate/supply/supplies/mre,/turf/open/floor/mainship,/area/mainship/hallways/port_hallway{outside = 0; name = "NTC Eagle Dropship"})
 "ZI" = (/obj/effect/landmark/start/job/corporateliaison,/obj/effect/landmark{name = "JoinLate"},/turf/open/floor/mainship,/area/mainship/hallways/port_hallway{outside = 0; name = "NTC Eagle Dropship"})
 
 (1,1,1) = {"
