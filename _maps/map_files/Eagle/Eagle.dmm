@@ -31,7 +31,7 @@
 "pQ" = (/obj/effect/landmark/start/job/requisitionsofficer,/obj/effect/landmark/start/job/requisitionsofficer,/obj/effect/landmark/start/job/requisitionsofficer,/obj/effect/landmark/start/job/requisitionsofficer,/obj/effect/landmark/start/latejoin,/turf/open/floor/mainship,/area/mainship/hallways/port_hallway{outside = 0; name = "NTC Eagle Dropship"})
 "tq" = (/obj/structure/window/framed/mainship/spaceworthy{icon_state = "col_window12"},/turf/open/space/transit/atmos,/area/mainship/hallways/port_hallway{outside = 0; name = "NTC Eagle Dropship"})
 "uq" = (/obj/structure/cable,/obj/machinery/door/poddoor/shutters/transit{dir = 2; id = "eagledoors"},/obj/effect/step_trigger/teleporter{name = "eagle_rappel"; teleport_x = 96; teleport_y = 111; teleport_z = 2},/turf/open/floor/mainship/cargo,/area/mainship/hallways/port_hallway{outside = 0; name = "NTC Eagle Dropship"})
-"va" = (/obj/structure/table/mainship,/obj/machinery/computer/marine_card,/turf/open/floor/mainship,/area/mainship/hallways/port_hallway{outside = 0; name = "NTC Eagle Dropship"})
+"va" = (/obj/structure/table/mainship,/obj/machinery/computer/station_alert,/turf/open/floor/mainship,/area/mainship/hallways/port_hallway{outside = 0; name = "NTC Eagle Dropship"})
 "vl" = (/obj/machinery/cryopod,/obj/machinery/light{dir = 4},/turf/open/floor/mainship,/area/mainship/hallways/port_hallway{outside = 0; name = "NTC Eagle Dropship"})
 "vD" = (/obj/structure/ladder{id = "eagleladder2"; height = 2},/turf/open/floor/plating/plating_catwalk,/area/mainship/hallways/port_hallway{outside = 0; name = "NTC Eagle Dropship"})
 "vV" = (/turf/closed/wall/mainship/outer,/area/space)
@@ -53,7 +53,7 @@
 "KF" = (/obj/effect/landmark/start/job/squadleader,/obj/effect/landmark/start/job/squadleader,/obj/effect/landmark/start/job/squadleader,/obj/effect/landmark/start/job/squadleader,/obj/effect/landmark/start/job/squadleader,/obj/effect/landmark{name = "JoinLate"},/turf/open/floor/mainship,/area/mainship/hallways/port_hallway{outside = 0; name = "NTC Eagle Dropship"})
 "KW" = (/obj/machinery/light{dir = 1},/obj/machinery/marine_selector/clothes,/turf/open/floor/mainship,/area/mainship/hallways/port_hallway{outside = 0; name = "NTC Eagle Dropship"})
 "LK" = (/obj/structure/table/mainship,/obj/machinery/computer/security/marine_network,/obj/machinery/door_control{id = "eagledoors"; name = "NTC Eagle doors control"; pixel_x = 12; pixel_y = -5},/turf/open/floor/mainship,/area/mainship/hallways/port_hallway{outside = 0; name = "NTC Eagle Dropship"})
-"Ma" = (/obj/structure/cable,/obj/machinery/computer/camera_advanced/overwatch,/turf/open/floor/plating/plating_catwalk,/area/mainship/hallways/port_hallway{outside = 0; name = "NTC Eagle Dropship"})
+"Ma" = (/obj/structure/cable,/obj/machinery/computer/navigation,/turf/open/floor/plating/plating_catwalk,/area/mainship/hallways/port_hallway{outside = 0; name = "NTC Eagle Dropship"})
 "MI" = (/obj/structure/cable,/obj/effect/landmark/start/job/crash/squadmarine,/obj/effect/landmark/start/job/crash/squadmarine,/obj/effect/landmark/start/job/crash/squadmarine,/obj/effect/landmark{name = "JoinLate"},/turf/open/floor/plating/plating_catwalk,/area/mainship/hallways/port_hallway{outside = 0; name = "NTC Eagle Dropship"})
 "MX" = (/obj/machinery/door/poddoor/shutters/transit{id = "eagledoors"},/obj/effect/step_trigger/teleporter{name = "eagle_rappel"; teleport_x = 96; teleport_y = 111; teleport_z = 2},/turf/open/floor/mainship/cargo,/area/mainship/hallways/port_hallway{outside = 0; name = "NTC Eagle Dropship"})
 "Nu" = (/obj/effect/step_trigger/teleporter/random{affect_ghosts = 1; name = "tele_ground1"; teleport_x = 25; teleport_x_offset = 40; teleport_y = 10; teleport_y_offset = 20; teleport_z = 1; teleport_z_offset = 1},/turf/open/space/transit/atmos,/area/space)
@@ -67,6 +67,7 @@
 "Ug" = (/obj/effect/landmark/start/job/squadcorpsman,/obj/effect/landmark/start/job/squadcorpsman,/obj/effect/landmark/start/job/squadcorpsman,/obj/effect/landmark/start/job/squadcorpsman,/obj/effect/landmark/start/job/squadcorpsman,/obj/effect/landmark/start/job/squadcorpsman,/obj/effect/landmark{name = "JoinLate"},/turf/open/floor/mainship,/area/mainship/hallways/port_hallway{outside = 0; name = "NTC Eagle Dropship"})
 "Uh" = (/obj/machinery/light{dir = 8},/obj/structure/dropprop,/obj/structure/droppod{name = "Zeus orbital drop pod"},/turf/open/floor/mainship,/area/mainship/hallways/port_hallway{outside = 0; name = "NTC Eagle Dropship"})
 "Um" = (/turf/closed/wall/mainship,/area/mainship/hallways/port_hallway{outside = 0; name = "NTC Eagle Dropship"})
+"Vr" = (/obj/structure/cable,/obj/structure/bed/chair/dropship/pilot{dir = 1},/turf/open/floor/plating/plating_catwalk,/area/mainship/hallways/port_hallway{outside = 0; name = "NTC Eagle Dropship"})
 "WD" = (/obj/structure/cable,/obj/structure/ladder{id = "eagleladder1"; height = 2},/obj/effect/landmark/start/job/chiefshipengineer,/turf/open/floor/plating/plating_catwalk,/area/mainship/hallways/port_hallway{outside = 0; name = "NTC Eagle Dropship"})
 "Xw" = (/obj/structure/bed/chair/dropship/pilot{dir = 1},/obj/effect/landmark/start/job/fieldcommander,/obj/machinery/light,/turf/open/floor/mainship,/area/mainship/hallways/port_hallway{outside = 0; name = "NTC Eagle Dropship"})
 "YE" = (/obj/structure/largecrate/supply/supplies/mre,/turf/open/floor/mainship,/area/mainship/hallways/port_hallway{outside = 0; name = "NTC Eagle Dropship"})
@@ -87,7 +88,7 @@ zQNuzQzQzQzQzQzQzQzQzQzQzQzQzQzQzQzQzQzQzQzQzQzQzQzQzQzQzQzQzQzQzQzQzQzQzQzQzQzQ
 zQNuzQzQzQzQzQzQzQzQzQzQzQzQzQzQzQzQzQzQzQzQzQzQzQzQzQzQzQzQzQzQzQzQzQzQzQzQzQzQzQzQzQzQzQzQzQzQNuzQ
 zQNuzQzQzQzQzQzQzQzQzQzQzQzQzQzQzQzQzQzQzQzQzQzQtqtqtqzQzQzQzQzQzQzQzQzQzQzQzQzQzQzQzQzQzQzQzQzQNuzQ
 zQNuzQzQzQzQzQzQzQzQzQzQzQzQzQzQzQzQzQzQzQzQzQUmyiMayiUmzQzQzQzQzQzQzQzQzQzQzQzQzQzQzQzQzQzQzQzQNuzQ
-zQNuzQzQzQzQzQzQzQzQzQzQzQzQzQzQzQzQzQzQzQzQzQwOLKyuvawOzQzQzQzQzQzQzQzQzQzQzQzQzQzQzQzQzQzQzQzQNuzQ
+zQNuzQzQzQzQzQzQzQzQzQzQzQzQzQzQzQzQzQzQzQzQzQwOLKVrvawOzQzQzQzQzQzQzQzQzQzQzQzQzQzQzQzQzQzQzQzQNuzQ
 zQNuzQzQzQzQzQzQzQzQzQzQzQzQzQzQzQzQzQzQzQzQzQwObNiCXwwOzQzQzQzQzQzQzQzQzQzQzQzQzQzQzQzQzQzQzQzQNuzQ
 zQNuzQzQzQzQzQzQzQzQzQzQzQzQzQzQzQzQzQzQzQzQgSUmGpUfGpUmgSzQzQzQzQzQzQzQzQzQzQzQzQzQzQzQzQzQzQzQNuzQ
 zQNuzQzQzQzQzQzQzQzQzQzQzQzQzQzQzQzQzQzQzQgSUmnBWDfDvDUmUmgSzQzQzQzQzQzQzQzQzQzQzQzQzQzQzQzQzQzQNuzQ
