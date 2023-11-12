@@ -10,7 +10,7 @@
 "eb" = (/obj/machinery/door/poddoor/shutters/transit{dir = 2; id = "eagledoors"},/obj/effect/step_trigger/teleporter{name = "eagle_rappel"; teleport_x = 96; teleport_y = 111; teleport_z = 2},/turf/open/floor/mainship/cargo,/area/mainship/hallways/port_hallway{outside = 0; name = "NTC Eagle Dropship"})
 "fD" = (/obj/structure/cable,/obj/structure/cable,/obj/effect/landmark/start/job/cmo,/turf/open/floor/plating/plating_catwalk,/area/mainship/hallways/port_hallway{outside = 0; name = "NTC Eagle Dropship"})
 "fU" = (/obj/machinery/light{dir = 4},/obj/machinery/cryopod,/turf/open/floor/mainship,/area/mainship/hallways/port_hallway{outside = 0; name = "NTC Eagle Dropship"})
-"ge" = (/obj/structure/cable,/obj/machinery/power/fusion_engine/preset,/turf/open/floor/plating/plating_catwalk,/area/mainship/hallways/port_hallway{outside = 0; name = "NTC Eagle Dropship"})
+"ge" = (/obj/structure/cable,/obj/machinery/power/smes/magical,/turf/open/floor/plating/plating_catwalk,/area/mainship/hallways/port_hallway{outside = 0; name = "NTC Eagle Dropship"})
 "gp" = (/obj/machinery/cryopod/right,/obj/machinery/light{dir = 8},/obj/structure/cable,/obj/machinery/power/apc/mainship/hardened,/turf/open/floor/mainship,/area/mainship/hallways/port_hallway{outside = 0; name = "NTC Eagle Dropship"})
 "gS" = (/turf/open/floor/mainship_hull,/area/mainship/hallways/port_hallway{outside = 0; name = "NTC Eagle Dropship"})
 "hy" = (/obj/structure/dropprop,/obj/structure/droppod{name = "Zeus orbital drop pod"},/turf/open/floor/mainship,/area/mainship/hallways/port_hallway{outside = 0; name = "NTC Eagle Dropship"})
