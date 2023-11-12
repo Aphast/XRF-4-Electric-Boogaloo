@@ -477,7 +477,7 @@
 "ano" = (/turf/open/ground/coast/corner2{dir = 8},/area/lv624/ground/jungle9)
 "anp" = (/turf/open/ground/coast{dir = 1},/area/lv624/ground/jungle9)
 "anr" = (/turf/closed/gm/dense,/area/lv624/ground/jungle8)
-"ant" = (/obj/structure/cable,/obj/machinery/light/small{dir = 1},/turf/open/floor/plating/plating_catwalk,/area/mainship/hallways/starboard_hallway{name = "HQ Hallways"; outside = 0})
+"ant" = (/obj/structure/jungle/vines,/obj/structure/barricade/metal{dir = 1},/turf/open/floor/plating/ground/dirtgrassborder{dir = 1},/area/lv624/ground/caves)
 "anu" = (/obj/structure/ore_box,/turf/open/floor/plating/ground/dirt,/area/lv624/ground/sand4)
 "anv" = (/obj/effect/decal/warning_stripes/thin{dir = 10},/turf/open/floor,/area/lv624/ground/sand8)
 "anx" = (/obj/effect/decal/warning_stripes/thin{dir = 6},/turf/open/floor,/area/lv624/ground/sand8)
@@ -547,7 +547,7 @@
 "aoZ" = (/obj/structure/flora/ausbushes/fullgrass,/obj/structure/jungle/vines,/turf/open/ground/grass,/area/lv624/ground/jungle8)
 "apc" = (/obj/effect/decal/mecha_wreckage/ripley/lv624,/turf/open/floor/plating/ground/dirt,/area/lv624/ground/sand4)
 "apd" = (/obj/structure/window_frame/wood,/obj/structure/jungle/vines/heavy,/turf/open/floor/plating/ground/dirtgrassborder{dir = 8},/area/lv624/ground/ruin)
-"ape" = (/turf/open/floor/carpet{dir = 4; icon_state = "carpetside"},/area/mainship/living/numbertwobunks{outside = 0})
+"ape" = (/obj/machinery/light{dir = 1},/obj/structure/reagent_dispensers/wallmounted/milk,/turf/open/floor/carpet{dir = 5; icon_state = "carpetside"},/area/mainship/living/numbertwobunks{outside = 0})
 "apf" = (/obj/structure/flora/ausbushes/reedbush,/turf/open/ground/river,/area/lv624/ground/river2)
 "aph" = (/obj/effect/decal/warning_stripes/thin{dir = 4},/turf/open/floor,/area/lv624/ground/river2)
 "api" = (/turf/open/floor/plating/warning{dir = 10},/area/lv624/ground/river2)
@@ -2269,6 +2269,7 @@
 "btP" = (/obj/machinery/light{dir = 8},/turf/open/floor/mainship/green{dir = 10},/area/mainship/shipboard/firing_range{outside = 0})
 "buh" = (/obj/structure/largecrate/cow,/turf/open/floor,/area/lv624/ground/jungle4)
 "buK" = (/turf/open/floor/mainship/green{dir = 9},/area/mainship/powered)
+"buY" = (/obj/structure/table/mainship,/obj/item/card/id,/obj/item/card/id,/obj/item/card/id,/obj/item/radio/headset/mainship/marine/generic,/obj/item/radio/headset/mainship/marine/generic,/obj/item/radio/headset/mainship/marine/generic,/turf/open/floor/mainship/mono,/area/mainship/living/numbertwobunks{outside = 0})
 "bvh" = (/obj/structure/bed/chair/wood/wings,/turf/open/floor/mainship,/area/mainship/living/chapel{outside = 0})
 "bvs" = (/obj/machinery/light{dir = 8},/turf/open/floor/mainship/green{dir = 9},/area/mainship/shipboard/firing_range{outside = 0})
 "bvt" = (/obj/machinery/body_scanconsole,/turf/open/floor/mainship/sterile/dark,/area/centcom/practice/medical{outside = 0})
@@ -2340,6 +2341,7 @@
 "bRK" = (/turf/open/ground/coast/corner2{dir = 4},/area/lv624/ground/jungle9)
 "bSW" = (/turf/closed/gm/dense,/area/lv624/ground/compound/sw)
 "bSZ" = (/obj/machinery/power/apc/mainship{dir = 1},/obj/structure/cable,/turf/open/floor/wood,/area/mainship/living/tankerbunks{outside = 0})
+"bTJ" = (/obj/structure/barricade/plasteel{dir = 1},/turf/open/floor/plating/ground/dirtgrassborder{dir = 1},/area/lv624/ground/caves)
 "bTS" = (/obj/machinery/light,/obj/structure/cable,/obj/structure/disposalpipe/segment{dir = 4},/turf/open/floor/mainship/mono,/area/mainship/hallways/stern_hallway{outside = 0})
 "bTT" = (/obj/machinery/light,/obj/machinery/atmospherics/pipe/simple/supply/hidden/layer1{dir = 9},/turf/open/floor/mainship/mono,/area/mainship/hallways/hangar{outside = 0})
 "bTW" = (/obj/machinery/atmospherics/components/unary/vent_pump/layer1{on = 1},/turf/open/floor/wood,/area/mainship/squads/req{outside = 0})
@@ -2360,7 +2362,7 @@
 "bYF" = (/obj/machinery/atmospherics/pipe/simple/supply/hidden/layer1{dir = 1},/turf/closed/wall,/area/mainship/living/grunt_rnr{outside = 0})
 "bYN" = (/obj/machinery/light,/obj/structure/cable,/turf/open/floor/mainship/mono,/area/mainship/hallways/hangar{outside = 0})
 "bYZ" = (/obj/structure/window_frame/colony,/obj/structure/jungle/vines,/turf/open/floor/plating/ground/dirtgrassborder{dir = 1},/area/shuttle/drop2/lz2)
-"bZg" = (/obj/machinery/door/airlock/mainship/generic{dir = 1},/turf/open/floor/mainship/mono,/area/mainship/hallways/hangar{outside = 0})
+"bZg" = (/turf/closed/mineral,/area/mainship/hallways/hangar{outside = 0})
 "bZw" = (/obj/machinery/miner/damaged,/turf/open/ground/grass,/area/lv624/ground/jungle9)
 "bZK" = (/turf/open/ground/river,/area/mainship/living/grunt_rnr{outside = 0})
 "cae" = (/obj/machinery/camera/autoname/mainship{dir = 4},/turf/open/floor/mainship/sterile/dark,/area/mainship/medical/medical_science{outside = 0})
@@ -2532,7 +2534,7 @@
 "dja" = (/turf/open/floor/grass,/area/lv624/ground/compound/se{outside = 0})
 "djI" = (/obj/structure/fence,/obj/machinery/door/poddoor/timed_late/containment/landing_zone/lz2{dir = 2},/turf/open/floor/plating/ground/dirtgrassborder{dir = 4},/area/shuttle/drop2/lz2)
 "djQ" = (/obj/effect/decal/warning_stripes/thin{dir = 4},/turf/open/floor/mainship/tcomms,/area/mainship/hallways/hangar{outside = 0})
-"dkq" = (/obj/structure/reagent_dispensers/wallmounted/milk,/turf/open/floor/carpet{dir = 9; icon_state = "carpetside"},/area/mainship/living/numbertwobunks{outside = 0})
+"dkq" = (/obj/structure/barricade/metal{dir = 1},/turf/open/floor/plating/ground/dirtgrassborder/corner{dir = 8},/area/lv624/ground/caves)
 "dkF" = (/obj/structure/table/mainship,/obj/machinery/computer/marine_card,/turf/open/floor/mainship/mono,/area/mainship/command/cic{outside = 0})
 "dlh" = (/obj/effect/alien/egg,/turf/open/floor/engine/cult,/area/lv624/ground/caves/west1)
 "dly" = (/obj/machinery/atmospherics/pipe/simple/scrubbers/hidden{dir = 4},/obj/machinery/atmospherics/pipe/simple/supply/hidden/layer1{dir = 4},/obj/machinery/alarm,/turf/open/floor/mainship/mono,/area/mainship/engineering/engine_core{outside = 0})
@@ -2545,6 +2547,7 @@
 "dnc" = (/obj/machinery/computer/camera_advanced/overwatch/alpha,/turf/open/floor/mainship/red{dir = 4},/area/mainship/command/cic{outside = 0})
 "dne" = (/obj/structure/bed/stool{pixel_y = 8},/turf/open/floor/grass,/area/mainship/living/starboard_garden{outside = 0})
 "dnm" = (/obj/structure/table/woodentable,/obj/item/reagent_containers/glass/rag,/obj/item/reagent_containers/spray/cleaner,/turf/open/floor/wood,/area/mainship/living/grunt_rnr{outside = 0})
+"dnz" = (/obj/structure/cable,/obj/machinery/light/small{dir = 1},/turf/open/floor/plating/plating_catwalk,/area/mainship/hallways/starboard_hallway{name = "HQ Hallways"; outside = 0})
 "dnE" = (/obj/machinery/door/poddoor/timed_late/containment/landing_zone{dir = 2},/turf/open/floor/tile/white,/area/lv624/lazarus/main_hall)
 "dnH" = (/obj/machinery/door/airlock/mainship/marine/general/engi,/obj/structure/disposalpipe/segment{dir = 4},/obj/structure/cable,/turf/open/floor/mainship,/area/mainship/squads/general{outside = 0})
 "doj" = (/obj/structure/flora/ausbushes/fernybush,/turf/open/floor/plating/ground/dirt,/area/lv624/ground/jungle7)
@@ -2665,7 +2668,7 @@
 "dZP" = (/obj/structure/cable,/obj/machinery/atmospherics/pipe/simple/scrubbers/hidden{dir = 9},/obj/machinery/atmospherics/pipe/simple/supply/hidden/layer1{dir = 4},/obj/structure/disposalpipe/segment{dir = 4},/turf/open/floor/plating/plating_catwalk,/area/mainship/hallways/starboard_hallway{name = "HQ Hallways"; outside = 0})
 "dZV" = (/obj/machinery/floodlight/colony,/turf/open/ground/grass,/area/lv624/ground/jungle9)
 "eaa" = (/turf/open/floor/mainship/cargo/arrow,/area/mainship/hallways/hangar{outside = 0})
-"eaZ" = (/obj/structure/flora/ausbushes/fullgrass,/obj/structure/barricade/plasteel{dir = 1},/turf/open/floor/grass,/area/lv624/ground/caves)
+"eaZ" = (/obj/machinery/door/airlock/mainship/generic{name = "\improper Construction Room"},/turf/open/floor/grass,/area/mainship/engineering/engineering_workshop{outside = 0})
 "ebe" = (/obj/structure/cable,/turf/open/floor/mainship/sterile/dark,/area/mainship/medical/lower_medical{outside = 0})
 "ebl" = (/obj/effect/decal/warning_stripes/thin{dir = 10},/turf/open/floor/mainship/green,/area/mainship/powered)
 "ebp" = (/obj/structure/bed,/obj/item/bedsheet/yellow,/turf/open/floor/wood,/area/mainship/squads/bravo{outside = 0})
@@ -2690,6 +2693,7 @@
 "ehg" = (/obj/machinery/light,/turf/open/floor/mainship/mono,/area/mainship/living/chapel{outside = 0})
 "ehm" = (/obj/machinery/door/airlock/mainship/medical/glass/free_access{dir = 1; name = "Killhouse"},/turf/open/floor/mainship,/area/mainship/hallways/hangar{outside = 0})
 "ehQ" = (/obj/structure/catwalk,/obj/structure/cable,/obj/machinery/atmospherics/pipe/simple/supply/hidden/layer1{dir = 1},/turf/open/ground/coast{dir = 1},/area/mainship/hallways/stern_hallway{outside = 0})
+"eiv" = (/obj/structure/cable,/obj/machinery/atmospherics/pipe/simple/supply/hidden/layer1{dir = 1},/obj/machinery/light/small{dir = 4},/turf/open/floor/plating/plating_catwalk,/area/mainship/hallways/starboard_hallway{name = "HQ Hallways"; outside = 0})
 "eiH" = (/turf/open/floor/carpet{dir = 6; icon_state = "carpetside"},/area/mainship/living/grunt_rnr{outside = 0})
 "eiV" = (/obj/effect/landmark/start/job/squadsmartgunner,/turf/open/floor/wood,/area/mainship/living/numbertwobunks{outside = 0})
 "ejZ" = (/obj/effect/landmark/lv624/fog_blocker,/obj/effect/landmark/xeno_resin_door,/turf/open/floor/plating/ground/dirt,/area/lv624/ground/caves/east1)
@@ -2735,7 +2739,6 @@
 "ezB" = (/obj/structure/largecrate/random/secure,/turf/open/floor,/area/lv624/ground/jungle4)
 "ezQ" = (/obj/structure/disposalpipe/segment{dir = 8},/obj/structure/bed/chair/comfy{dir = 4},/obj/machinery/atmospherics/pipe/simple/supply/hidden/layer1{dir = 1},/turf/open/floor/mainship,/area/mainship/living/grunt_rnr{outside = 0})
 "ezU" = (/obj/structure/kitchenspike,/turf/open/floor/freezer,/area/mainship/living/captain_mess{outside = 0})
-"eBa" = (/obj/structure/cable,/obj/machinery/atmospherics/pipe/simple/supply/hidden/layer1{dir = 4},/obj/structure/disposalpipe/segment{dir = 4},/obj/machinery/light/small{dir = 1},/turf/open/floor/plating/plating_catwalk,/area/mainship/hallways/starboard_hallway{name = "HQ Hallways"; outside = 0})
 "eBP" = (/turf/open/floor/plating/warning{dir = 4},/area/lv624/lazarus/engineering)
 "eCD" = (/obj/structure/closet/emcloset,/turf/open/floor/mainship/mono,/area/mainship/hallways/hangar{outside = 0})
 "eCE" = (/obj/structure/rack,/obj/item/flashlight,/obj/item/flashlight,/obj/item/flashlight,/obj/item/flashlight,/obj/item/flashlight,/obj/item/flashlight,/obj/item/flashlight,/obj/item/flashlight,/obj/item/flashlight,/obj/item/flashlight,/obj/item/flashlight,/obj/item/flashlight,/obj/item/flashlight,/obj/item/flashlight,/obj/item/flashlight,/obj/item/flashlight,/obj/item/flashlight,/obj/item/flashlight,/obj/item/flashlight,/obj/item/flashlight,/turf/open/floor/mainship/orange,/area/mainship/engineering/engineering_workshop{outside = 0})
@@ -2995,7 +2998,7 @@
 "glu" = (/obj/effect/landmark/xeno_resin_door,/turf/open/floor/plating/ground/dirt,/area/lv624/ground/caves/east2)
 "glG" = (/obj/effect/spawner/modularmap/lv624/domes,/turf/open/space/basic,/area/lv624/lazarus/atmos)
 "glT" = (/obj/structure/broken_apc,/turf/open/floor/mainship/stripesquare,/area/mainship/shipboard/firing_range{outside = 0})
-"glW" = (/obj/structure/barricade/metal{dir = 1},/turf/open/floor/plating/ground/dirtgrassborder/corner{dir = 8},/area/lv624/ground/caves)
+"glW" = (/obj/structure/jungle/vines,/obj/structure/barricade/metal{dir = 1},/turf/open/floor/grass,/area/lv624/ground/caves)
 "gmt" = (/obj/structure/table/woodentable,/obj/item/pizzabox/meat{pixel_y = 8},/turf/open/floor/wood,/area/mainship/squads/charlie{outside = 0})
 "gmv" = (/turf/open/floor/freezer,/area/centcom/practice/medical{outside = 0})
 "gmG" = (/obj/machinery/atmospherics/components/unary/vent_pump/layer1,/turf/open/floor/plating/ground/dirt,/area/lv624/ground/jungle6)
@@ -3099,7 +3102,7 @@
 "gQZ" = (/obj/structure/cable,/obj/machinery/atmospherics/pipe/simple/supply/hidden/layer1{dir = 4},/obj/machinery/atmospherics/pipe/simple/scrubbers/hidden{dir = 4},/turf/open/floor/mainship/floor,/area/mainship/hallways/hangar{outside = 0})
 "gRh" = (/obj/machinery/atmospherics/pipe/manifold/supply/hidden/layer1,/turf/open/floor/mainship/floor,/area/mainship/squads/general{outside = 0})
 "gRx" = (/obj/structure/toilet,/turf/open/floor/mainship/sterile/dark,/area/mainship/squads/alpha{outside = 0})
-"gRE" = (/obj/machinery/disposal,/obj/structure/disposalpipe/trunk{dir = 4},/turf/open/floor/mainship/mono,/area/mainship/living/numbertwobunks{outside = 0})
+"gRE" = (/obj/structure/disposalpipe/trunk{dir = 4},/obj/machinery/disposal,/turf/open/floor/mainship/mono,/area/mainship/living/numbertwobunks{outside = 0})
 "gRI" = (/obj/effect/landmark/lv624/fog_blocker/xeno_spawn,/obj/effect/landmark/xeno_resin_wall,/turf/open/floor/plating/ground/dirt,/area/lv624/ground/caves/central1)
 "gRK" = (/obj/structure/table/mainship,/obj/machinery/light{dir = 4},/obj/item/storage/fancy/cigar,/obj/item/storage/box/matches,/turf/open/floor/mainship/red/full,/area/lv624/lazarus/security)
 "gSi" = (/obj/machinery/light{dir = 4},/obj/structure/barricade/sandbags{dir = 1},/turf/open/floor/mainship/mono,/area/syndicate_station{name = "Wiped NTC FOB"; outside = 0; icon_state = "red"})
@@ -3160,7 +3163,7 @@
 "hkd" = (/obj/machinery/power/apc,/obj/structure/cable,/turf/open/floor/mainship/mono,/area/mainship/hallways/starboard_hallway{name = "HQ Hallways"; outside = 0})
 "hkh" = (/obj/structure/bed/chair/sofa{dir = 8},/turf/open/floor/mainship/mono,/area/mainship/living/grunt_rnr{outside = 0})
 "hkU" = (/obj/structure/cable,/obj/structure/disposalpipe/segment,/obj/machinery/door/airlock/mainship/research/chemistry{dir = 2},/obj/machinery/atmospherics/pipe/simple/supply/hidden/layer1{dir = 1},/turf/open/floor/mainship/mono,/area/mainship/medical/medical_science{outside = 0})
-"hkX" = (/obj/machinery/light,/obj/structure/table/mainship,/obj/item/storage/briefcase,/obj/item/reagent_containers/food/drinks/flask/barflask,/obj/item/clipboard{pixel_x = 5},/obj/item/dildo/flared/huge,/turf/open/floor/wood,/area/mainship/living/numbertwobunks{outside = 0})
+"hkX" = (/obj/machinery/light,/obj/structure/table/mainship,/obj/item/reagent_containers/food/drinks/flask/barflask,/obj/item/dildo/flared/huge,/obj/item/storage/briefcase,/turf/open/floor/wood,/area/mainship/living/numbertwobunks{outside = 0})
 "hld" = (/obj/structure/cable,/obj/structure/shipmast,/obj/machinery/atmospherics/pipe/simple/supply/hidden/layer1{dir = 5},/turf/open/floor/plating/plating_catwalk,/area/mainship/hallways/hangar{outside = 0})
 "hlT" = (/obj/machinery/vending/nanomed,/turf/open/floor/mainship/mono,/area/mainship/engineering/lower_engineering{outside = 0})
 "hmA" = (/obj/structure/cable,/obj/structure/disposalpipe/segment/corner{dir = 8},/turf/open/floor/wood,/area/mainship/living/tankerbunks{outside = 0})
@@ -3314,6 +3317,7 @@
 "ioD" = (/turf/open/floor/mainship/red{dir = 8},/area/mainship/command/cic{outside = 0})
 "ipx" = (/obj/machinery/landinglight/ds1/delayone{dir = 8},/obj/effect/decal/warning_stripes/thin{dir = 8},/turf/open/floor/mainship/cargo/arrow,/area/mainship/powered)
 "ipC" = (/obj/structure/window/framed/colony,/obj/machinery/door/poddoor/shutters/mainship/open/indestructible{dir = 2; id = 1000; name = "\improper Quarters Privacy Shutters"},/turf/open/floor/plating,/area/mainship/living/numbertwobunks{outside = 0})
+"iqc" = (/obj/structure/barricade/metal{dir = 1},/obj/structure/barricade/metal{dir = 1},/turf/open/floor/plating/ground/dirtgrassborder/corner{dir = 4},/area/lv624/ground/caves)
 "iqd" = (/obj/machinery/bodyscanner,/turf/open/floor/mainship/sterile,/area/centcom/practice/medical{outside = 0})
 "iqA" = (/obj/structure/jungle/planttop1,/obj/structure/jungle/vines/heavy,/turf/open/floor/plating/ground/dirtgrassborder,/area/lv624/ground/jungle9)
 "iqR" = (/obj/structure/flora/ausbushes/fullgrass,/obj/effect/landmark/weed_node,/turf/open/floor/plating/ground/dirt,/area/lv624/ground/jungle9)
@@ -3336,7 +3340,6 @@
 "ixx" = (/obj/machinery/light{dir = 4},/obj/effect/landmark/weed_node,/turf/open/floor/tile/blue/whitebluecorner,/area/lv624/lazarus/medbay)
 "ixC" = (/obj/structure/jungle/vines,/turf/closed/gm/dense,/area/lv624/ground/jungle6)
 "ixF" = (/obj/structure/closet/basketball,/turf/open/floor/mainship,/area/mainship/living/basketball{outside = 0})
-"ixH" = (/obj/structure/jungle/vines,/obj/structure/barricade/metal{dir = 1},/turf/open/floor/plating/ground/dirtgrassborder{dir = 1},/area/lv624/ground/caves)
 "ixP" = (/turf/open/ground/grass,/area/lv624/ground/compound/se{outside = 0})
 "ixU" = (/obj/structure/table/mainship,/obj/item/ashtray/glass,/obj/item/clipboard{pixel_x = 5},/obj/machinery/atmospherics/pipe/simple/supply/hidden/layer1,/obj/item/newspaper,/turf/open/floor/wood,/area/mainship/living/commandbunks{outside = 0})
 "iza" = (/obj/machinery/alarm,/turf/open/floor/mainship/mono,/area/mainship/hallways/starboard_hallway{name = "HQ Hallways"; outside = 0})
@@ -3392,7 +3395,6 @@
 "iRY" = (/obj/machinery/atmospherics/components/unary/vent_pump/layer1{dir = 1; on = 1},/turf/open/floor/mainship,/area/mainship/hallways/starboard_hallway{name = "HQ Hallways"; outside = 0})
 "iSv" = (/obj/machinery/atmospherics/components/unary/vent_pump/layer1{dir = 8; on = 1},/obj/structure/cable,/obj/machinery/atmospherics/pipe/simple/supply/hidden/layer1{dir = 4},/obj/machinery/atmospherics/pipe/simple/scrubbers/hidden{dir = 4},/turf/open/floor/mainship/floor,/area/mainship/hallways/hangar{outside = 0})
 "iSw" = (/obj/structure/bed/chair/sofa/left{dir = 4},/obj/machinery/light{dir = 8},/turf/open/floor/wood,/area/mainship/living/grunt_rnr{outside = 0})
-"iST" = (/turf/open/floor/plating,/area/mainship/powered{outside = 0})
 "iTb" = (/obj/structure/flora/ausbushes/fullgrass,/turf/closed/gm/dense,/area/lv624/ground/jungle3)
 "iTg" = (/obj/machinery/power/apc/mainship{dir = 1},/obj/structure/cable,/turf/open/floor/mainship/sterile/dark,/area/mainship/living/starboard_emb{outside = 0})
 "iTt" = (/obj/machinery/door/airlock/mainship/medical/glass/free_access{name = "Killhouse"},/turf/open/floor/mainship,/area/mainship/shipboard/firing_range{outside = 0})
@@ -3545,7 +3547,7 @@
 "jVN" = (/obj/structure/disposalpipe/segment/corner{dir = 4},/obj/structure/cable,/turf/open/floor/mainship/mono,/area/mainship/command/cic{outside = 0})
 "jVV" = (/obj/docking_port/stationary/crashmode,/turf/open/ground/river,/area/lv624/ground/river2)
 "jWi" = (/obj/item/ore/osmium,/turf/closed/mineral,/area/lv624/ground/compound/se{outside = 0})
-"jWI" = (/obj/structure/rack,/turf/open/floor/mainship/orange/corner,/area/mainship/engineering/engineering_workshop{outside = 0})
+"jWI" = (/obj/structure/cable,/obj/machinery/atmospherics/pipe/simple/supply/hidden/layer1{dir = 4},/obj/structure/disposalpipe/segment{dir = 4},/obj/machinery/light/small{dir = 1},/turf/open/floor/plating/plating_catwalk,/area/mainship/hallways/starboard_hallway{name = "HQ Hallways"; outside = 0})
 "jWZ" = (/obj/structure/window/reinforced/tinted{dir = 4},/obj/structure/window/reinforced/tinted{dir = 4},/turf/open/floor/mainship/mono,/area/syndicate_station{name = "Wiped NTC FOB"; outside = 0; icon_state = "red"})
 "jXb" = (/obj/machinery/atmospherics/pipe/simple/supply/hidden/layer1,/obj/effect/landmark/weed_node,/obj/structure/cable,/turf/open/floor/tile/white,/area/lv624/lazarus/research)
 "jXd" = (/obj/machinery/atmospherics/pipe/simple/scrubbers/hidden{dir = 4},/obj/machinery/atmospherics/pipe/simple/supply/hidden/layer1{dir = 4},/obj/structure/cable,/obj/machinery/camera/autoname/mainship{dir = 1},/obj/structure/disposalpipe/segment{dir = 4},/turf/open/floor/plating/plating_catwalk,/area/mainship/hallways/starboard_hallway{name = "HQ Hallways"; outside = 0})
@@ -3610,6 +3612,7 @@
 "kue" = (/obj/item/flashlight/lantern,/turf/open/floor/plating/ground/dirt,/area/lv624/ground/caves)
 "kuh" = (/obj/machinery/door/poddoor/timed_late/containment/landing_zone{dir = 2},/turf/open/floor/plating/ground/dirtgrassborder{dir = 8},/area/lv624/ground/jungle1)
 "kuJ" = (/obj/structure/largecrate/supply/supplies/mre,/turf/open/floor/wood,/area/lv624/lazarus/security)
+"kuX" = (/obj/structure/rack,/obj/item/storage/toolbox/electrical,/obj/item/storage/toolbox/electrical,/obj/item/storage/toolbox/electrical,/obj/item/storage/toolbox/electrical,/obj/item/storage/toolbox/electrical,/obj/item/storage/toolbox/electrical,/obj/item/storage/toolbox/electrical,/obj/item/storage/toolbox/electrical,/obj/item/storage/toolbox/electrical,/obj/item/storage/toolbox/electrical,/obj/machinery/light{dir = 4},/turf/open/floor/mainship/orange/corner{dir = 4},/area/mainship/engineering/engineering_workshop{outside = 0})
 "kvL" = (/obj/structure/cable,/obj/machinery/light{dir = 4},/obj/machinery/atmospherics/pipe/simple/supply/hidden/layer1{dir = 9},/turf/open/floor/plating/plating_catwalk,/area/mainship/squads/req{outside = 0})
 "kvU" = (/obj/structure/inflatable,/turf/open/floor/plating/ground/dirtgrassborder{dir = 8},/area/lv624/ground/compound/se{outside = 0})
 "kwa" = (/obj/item/ore/osmium,/turf/closed/mineral,/area/lv624/ground/caves)
@@ -3678,6 +3681,7 @@
 "kPS" = (/obj/structure/disposalpipe/segment,/obj/machinery/light{dir = 8},/obj/structure/cable,/turf/open/floor/mainship/mono,/area/mainship/command/airoom{outside = 0})
 "kPV" = (/obj/structure/disposalpipe/segment{dir = 4},/turf/open/floor/wood,/area/mainship/squads/req{outside = 0})
 "kQm" = (/obj/machinery/atmospherics/pipe/simple/supply/hidden/layer1,/turf/open/floor/mainship/mono,/area/mainship/living/bridgebunks{outside = 0})
+"kQn" = (/obj/structure/cable,/turf/closed/wall,/area/mainship/squads/req{outside = 0})
 "kQo" = (/obj/machinery/light/small{dir = 8},/turf/open/floor/mainship/sterile/dark,/area/mainship/living/starboard_emb{outside = 0})
 "kQt" = (/obj/structure/barricade/sandbags{dir = 8},/turf/open/floor/grass,/area/lv624/ground/caves)
 "kQx" = (/obj/structure/cable,/obj/structure/disposalpipe/segment/corner,/turf/open/floor/wood,/area/mainship/living/numbertwobunks{outside = 0})
@@ -3813,7 +3817,6 @@
 "lJS" = (/obj/structure/sink/bathroom{dir = 1},/obj/structure/mirror{dir = 8; pixel_x = -32},/turf/open/floor/mainship/sterile/dark,/area/mainship/living/numbertwobunks{outside = 0})
 "lKj" = (/obj/machinery/power/apc/mainship,/obj/structure/cable,/turf/open/floor/mainship/mono,/area/mainship/engineering/lower_engineering{outside = 0})
 "lKD" = (/obj/machinery/door/airlock/mainship/generic{dir = 1},/obj/structure/cable,/obj/structure/cable,/obj/machinery/atmospherics/pipe/simple/supply/hidden/layer1{dir = 1},/turf/open/floor/mainship/mono,/area/mainship/hallways/stern_hallway{outside = 0})
-"lLd" = (/obj/structure/cable,/turf/closed/wall,/area/mainship/squads/req{outside = 0})
 "lLI" = (/obj/item/storage/firstaid/regular{pixel_x = 3; pixel_y = 3},/obj/structure/closet/secure_closet/personal/cabinet,/turf/open/floor/wood,/area/mainship/living/bridgebunks{outside = 0})
 "lMf" = (/obj/machinery/power/apc/mainship,/obj/structure/cable,/turf/open/floor/wood,/area/mainship/living/numbertwobunks{outside = 0})
 "lMF" = (/turf/open/floor/mainship/mono,/area/mainship/hallways/starboard_hallway{name = "HQ Hallways"; outside = 0})
@@ -3831,7 +3834,6 @@
 "lQs" = (/turf/open/floor/stairs/rampbottom{dir = 1},/area/mainship/command/cic{outside = 0})
 "lQu" = (/obj/effect/decal/warning_stripes/thin{dir = 4},/turf/open/floor/plating,/area/mainship/powered)
 "lQN" = (/obj/structure/table/mainship,/obj/item/weapon/gun/energy/lasgun/M43/practice,/obj/item/weapon/gun/energy/lasgun/M43/practice,/obj/item/weapon/gun/energy/lasgun/M43/practice,/obj/machinery/light{dir = 1},/turf/open/floor/mainship/red{dir = 1},/area/mainship/shipboard/firing_range{outside = 0})
-"lQR" = (/obj/machinery/door/firedoor/mainship,/obj/machinery/door/airlock/mainship/generic,/turf/open/floor/mainship/mono,/area/mainship/hallways/hangar{outside = 0})
 "lRb" = (/turf/closed/wall/mainship,/area/mainship/command/telecomms{outside = 0})
 "lRu" = (/obj/structure/fence,/obj/machinery/light{dir = 8},/turf/open/floor/plating/ground/dirtgrassborder,/area/shuttle/drop2/lz2)
 "lSf" = (/obj/machinery/door/airlock/mainship/marine/general/engi,/obj/structure/disposalpipe/segment{dir = 4},/turf/open/floor/mainship,/area/mainship/squads/general{outside = 0})
@@ -3902,6 +3904,7 @@
 "mjx" = (/obj/effect/decal/warning_stripes/thin{dir = 4},/obj/machinery/landinglight/ds2/delaytwo{dir = 4},/turf/open/floor/mainship/mono,/area/mainship/hallways/hangar{outside = 0})
 "mjE" = (/obj/machinery/atmospherics/components/unary/vent_scrubber/on{dir = 8},/turf/open/floor/mainship/mono,/area/mainship/living/pilotbunks{outside = 0})
 "mjS" = (/obj/machinery/atmospherics/pipe/simple/scrubbers/hidden{dir = 10},/turf/open/floor/mainship/emerald{dir = 8},/area/mainship/command/cic{outside = 0})
+"mjV" = (/turf/open/floor/plating,/area/mainship/powered{outside = 0})
 "mjZ" = (/obj/structure/sign/botany{dir = 1},/turf/open/floor/plating/ground/dirt,/area/lv624/ground/compound/n{outside = 0})
 "mkh" = (/obj/structure/closet/radiation,/turf/open/floor/mainship/cargo,/area/mainship/engineering/lower_engineering{outside = 0})
 "mkj" = (/obj/effect/decal/warning_stripes/thin{dir = 8},/turf/open/floor/mainship/orange{dir = 8},/area/mainship/hallways/hangar{outside = 0})
@@ -3999,9 +4002,10 @@
 "mMz" = (/obj/structure/cable,/obj/structure/bed/chair/sofa/corner,/turf/open/floor/wood,/area/mainship/squads/delta{outside = 0})
 "mMF" = (/obj/structure/jungle/planttop1,/turf/open/floor/plating/ground/dirt,/area/lv624/ground/jungle7)
 "mMJ" = (/obj/machinery/door/airlock/mainship/maint,/turf/open/floor/mainship/mono,/area/mainship/hallways/hangar{outside = 0})
+"mMS" = (/obj/structure/cable,/turf/open/floor/mainship/cargo/arrow{dir = 4},/area/mainship/powered)
 "mMV" = (/obj/structure/cable,/obj/structure/flora/ausbushes/fullgrass,/obj/machinery/atmospherics/pipe/simple/supply/hidden/layer1{dir = 1},/turf/open/floor/plating/plating_catwalk,/area/mainship/hallways/stern_hallway{outside = 0})
 "mMX" = (/obj/structure/table/woodentable,/obj/item/toy/deck,/turf/open/floor/mainship,/area/mainship/living/grunt_rnr{outside = 0})
-"mNz" = (/obj/machinery/atmospherics/pipe/simple/supply/hidden/layer1{dir = 1},/obj/structure/cable,/turf/closed/wall/mainship,/area/mainship/shipboard/firing_range{outside = 0})
+"mNz" = (/obj/machinery/marine_turret/premade,/turf/open/floor/grass,/area/lv624/ground/caves)
 "mNK" = (/obj/structure/cable,/obj/machinery/atmospherics/pipe/simple/supply/hidden/layer1,/obj/effect/landmark/weed_node,/turf/open/floor/plating/ground/dirt,/area/lv624/ground/compound/n{outside = 0})
 "mNU" = (/obj/machinery/door/airlock/mainship/generic{dir = 1; name = "\improper Bathroom"},/turf/open/floor/mainship/sterile/dark,/area/mainship/squads/bravo{outside = 0})
 "mOn" = (/turf/open/floor/mainship/cargo/arrow{dir = 8},/area/mainship/hallways/hangar{outside = 0})
@@ -4048,7 +4052,6 @@
 "neX" = (/obj/structure/table/mainship,/obj/item/reagent_containers/food/snacks/friedegg,/obj/item/reagent_containers/food/drinks/cans/souto/diet,/obj/structure/cable,/obj/structure/disposalpipe/segment{dir = 1},/turf/open/floor/mainship,/area/mainship/living/grunt_rnr{outside = 0})
 "nfW" = (/obj/machinery/bioprinter,/turf/open/floor/mainship/sterile/corner{dir = 8},/area/centcom/practice/medical{outside = 0})
 "ngq" = (/obj/machinery/light{dir = 8},/obj/structure/closet/secure_closet/medical1,/turf/open/floor/mainship/sterile/dark,/area/mainship/medical/medical_science{outside = 0})
-"ngs" = (/obj/structure/rack,/obj/item/storage/toolbox/electrical,/obj/item/storage/toolbox/electrical,/obj/item/storage/toolbox/electrical,/obj/item/storage/toolbox/electrical,/obj/item/storage/toolbox/electrical,/obj/item/storage/toolbox/electrical,/obj/item/storage/toolbox/electrical,/obj/item/storage/toolbox/electrical,/obj/item/storage/toolbox/electrical,/obj/item/storage/toolbox/electrical,/obj/machinery/light{dir = 4},/turf/open/floor/mainship/orange/corner{dir = 4},/area/mainship/engineering/engineering_workshop{outside = 0})
 "nhh" = (/obj/effect/landmark/start/job/squadengineer,/obj/machinery/atmospherics/pipe/simple/supply/hidden/layer1{dir = 9},/turf/open/floor/mainship/floor,/area/mainship/squads/general{outside = 0})
 "nho" = (/obj/structure/cable,/turf/open/floor/mainship/tcomms,/area/mainship/engineering/engine_core{outside = 0})
 "nhC" = (/obj/structure/sign/redcross,/turf/open/floor/plating/ground/dirtgrassborder{dir = 1},/area/lv624/ground/jungle7)
@@ -4162,8 +4165,7 @@
 "nVQ" = (/obj/structure/flora/ausbushes/fullgrass,/obj/machinery/door/poddoor/timed_late/containment/landing_zone/lz2,/turf/open/ground/grass,/area/shuttle/drop2/lz2)
 "nWJ" = (/obj/machinery/camera/autoname/mainship{dir = 4},/turf/open/floor/mainship/green{dir = 8},/area/mainship/living/basketball{outside = 0})
 "nWY" = (/obj/structure/bed,/obj/item/bedsheet/red,/turf/open/floor/wood,/area/mainship/squads/delta{outside = 0})
-"nXv" = (/obj/machinery/door/airlock/mainship/generic{name = "\improper Construction Room"},/turf/open/floor/grass,/area/mainship/engineering/engineering_workshop{outside = 0})
-"nXw" = (/obj/structure/window/framed/mainship,/obj/structure/cable,/obj/structure/cable,/turf/open/floor/plating,/area/mainship/engineering/lower_engine_monitoring{outside = 0})
+"nXv" = (/obj/item/stack/barbed_wire/full,/turf/open/floor/grass,/area/lv624/ground/caves)
 "nYl" = (/turf/open/floor/tile/purple/whitepurple{dir = 5},/area/lv624/lazarus/fitness)
 "nYr" = (/obj/machinery/light{dir = 1},/turf/open/floor/wood,/area/mainship/living/bridgebunks{outside = 0})
 "nYD" = (/obj/structure/cable,/obj/machinery/atmospherics/pipe/simple/supply/hidden/layer1,/obj/effect/landmark/weed_node,/turf/open/floor/plating/ground/dirt,/area/lv624/ground/compound/sw)
@@ -4321,7 +4323,6 @@
 "pam" = (/obj/effect/landmark/start/job/squadcorpsman,/turf/open/floor/wood,/area/mainship/living/bridgebunks{outside = 0})
 "paG" = (/obj/effect/decal/warning_stripes/thin{dir = 1},/obj/effect/landmark/weed_node,/turf/open/floor,/area/lv624/ground/sand9)
 "paQ" = (/turf/open/floor/marking/warning{dir = 9},/area/lv624/ground/jungle6)
-"paT" = (/obj/machinery/light,/obj/structure/cable,/turf/open/floor/mainship/mono,/area/mainship/powered)
 "pbE" = (/obj/machinery/atmospherics/pipe/simple/supply/hidden/layer1{dir = 1},/turf/open/floor/mainship,/area/mainship/living/grunt_rnr{outside = 0})
 "pbH" = (/obj/item/frame/table,/obj/effect/landmark/weed_node,/turf/open/floor/tile/white,/area/lv624/lazarus/main_hall)
 "pca" = (/obj/structure/flora/ausbushes/stalkybush,/turf/open/ground/river,/area/lv624/ground/compound/n{outside = 0})
@@ -4428,7 +4429,7 @@
 "pKk" = (/obj/machinery/telecomms/server/presets/common,/turf/open/floor/mainship/tcomms,/area/mainship/command/telecomms{outside = 0})
 "pLj" = (/obj/structure/cable,/obj/structure/disposalpipe/segment/corner,/turf/open/floor/wood,/area/mainship/living/bridgebunks{outside = 0})
 "pLl" = (/obj/effect/landmark/weed_node,/turf/open/floor,/area/lv624/ground/sand2)
-"pLp" = (/obj/machinery/atmospherics/pipe/simple/supply/hidden/layer1{dir = 9},/obj/machinery/atmospherics/pipe/simple/scrubbers/hidden{dir = 5},/turf/open/floor/wood,/area/mainship/living/numbertwobunks{outside = 0})
+"pLp" = (/obj/machinery/atmospherics/pipe/simple/scrubbers/hidden{dir = 5},/obj/machinery/atmospherics/pipe/simple/supply/hidden/layer1,/turf/open/floor/wood,/area/mainship/living/numbertwobunks{outside = 0})
 "pLK" = (/obj/machinery/disposal,/obj/structure/disposalpipe/trunk{dir = 4},/turf/open/floor/wood,/area/mainship/living/tankerbunks{outside = 0})
 "pMs" = (/obj/effect/landmark/weed_node,/turf/open/floor/plating,/area/lv624/lazarus/toilet)
 "pMA" = (/obj/machinery/power/apc/mainship{dir = 4},/obj/structure/cable,/turf/open/floor/mainship/mono,/area/mainship/living/grunt_rnr{outside = 0})
@@ -4486,7 +4487,7 @@
 "qez" = (/obj/machinery/floodlight/colony,/turf/open/floor/plating/ground/dirtgrassborder/corner2{dir = 4},/area/lv624/ground/jungle9)
 "qeC" = (/obj/machinery/atmospherics/pipe/simple/supply/hidden/layer1{dir = 1},/turf/closed/wall/mainship,/area/mainship/shipboard/firing_range{outside = 0})
 "qeK" = (/obj/machinery/marine_selector/clothes,/turf/open/floor/wood,/area/mainship/squads/req{outside = 0})
-"qeT" = (/obj/structure/barricade/plasteel{dir = 1},/turf/open/floor/plating/ground/dirtgrassborder{dir = 1},/area/lv624/ground/caves)
+"qeT" = (/obj/machinery/door/airlock/mainship/generic{dir = 1},/turf/open/floor/mainship/mono,/area/mainship/hallways/hangar{outside = 0})
 "qgn" = (/obj/effect/landmark/start/job/squadsmartgunner,/turf/open/floor/wood,/area/mainship/squads/bravo{outside = 0})
 "qgz" = (/obj/machinery/door/airlock/mainship/command/FCDRoffice,/obj/machinery/door/firedoor/mainship,/obj/machinery/atmospherics/pipe/simple/scrubbers/hidden{dir = 4},/obj/machinery/atmospherics/pipe/simple/supply/hidden/layer1{dir = 4},/obj/structure/cable,/obj/structure/disposalpipe/segment{dir = 4},/turf/open/floor/mainship/mono,/area/mainship/living/numbertwobunks{outside = 0})
 "qgJ" = (/obj/machinery/atmospherics/pipe/simple/supply/hidden/layer1,/obj/machinery/atmospherics/pipe/simple/scrubbers/hidden,/obj/machinery/door/poddoor/mainship/ammo{dir = 2},/turf/open/floor/mainship/stripesquare,/area/mainship/hallways/hangar{outside = 0})
@@ -4542,13 +4543,13 @@
 "qzs" = (/turf/closed/gm/dense,/area/shuttle/drop1/lz1)
 "qzH" = (/obj/machinery/disposal,/obj/structure/disposalpipe/trunk{dir = 4},/obj/machinery/light{dir = 8},/turf/open/floor/mainship/sterile/dark,/area/mainship/living/starboard_emb{outside = 0})
 "qzS" = (/obj/machinery/door/airlock/mainship/generic{name = "\improper Toilet"},/obj/machinery/atmospherics/pipe/simple/supply/hidden/layer1{dir = 4},/turf/open/floor/mainship/sterile/dark,/area/mainship/living/grunt_rnr{outside = 0})
-"qzV" = (/obj/machinery/atmospherics/pipe/simple/supply/hidden/layer1,/obj/machinery/atmospherics/pipe/simple/scrubbers/hidden,/turf/open/floor/wood,/area/mainship/living/numbertwobunks{outside = 0})
+"qzV" = (/obj/machinery/atmospherics/pipe/simple/scrubbers/hidden,/obj/machinery/atmospherics/pipe/simple/supply/hidden/layer1{dir = 10},/turf/open/floor/wood,/area/mainship/living/numbertwobunks{outside = 0})
 "qAB" = (/turf/open/floor/mainship/orange{dir = 4},/area/mainship/engineering/engine_core{outside = 0})
 "qAF" = (/obj/structure/disposalpipe/segment/corner{dir = 4},/turf/open/floor/wood,/area/mainship/squads/req{outside = 0})
 "qAQ" = (/obj/structure/bed,/obj/item/bedsheet/brown,/turf/open/floor/mainship/green{dir = 6},/area/mainship/shipboard/firing_range{outside = 0})
 "qAU" = (/turf/closed/wall,/area/mainship/living/bridgebunks{outside = 0})
 "qBe" = (/obj/structure/cargo_container/nt{dir = 8},/turf/open/floor,/area/lv624/ground/jungle6)
-"qBo" = (/obj/item/stack/barbed_wire/full,/turf/open/floor/grass,/area/lv624/ground/caves)
+"qBo" = (/obj/machinery/light,/obj/structure/cable,/turf/open/floor/mainship/mono,/area/mainship/powered)
 "qBt" = (/obj/structure/flora/ausbushes/fernybush,/turf/open/ground/grass/grass2,/area/lv624/ground/jungle9)
 "qBv" = (/obj/machinery/atmospherics/pipe/simple/supply/hidden/layer1{dir = 10},/turf/open/floor,/area/lv624/lazarus/fitness)
 "qBH" = (/obj/structure/cable,/obj/machinery/atmospherics/pipe/simple/supply/hidden/layer1{dir = 1},/turf/open/floor/plating/ground/dirt,/area/lv624/ground/caves)
@@ -4581,6 +4582,7 @@
 "qKT" = (/obj/structure/table/woodentable,/obj/item/tool/pickaxe/jackhammer,/obj/item/tool/shovel,/obj/item/tool/shovel/spade,/obj/item/clothing/glasses/material,/obj/item/clothing/head/hardhat/orange,/obj/item/clothing/head/hardhat/orange,/obj/item/clothing/glasses/material,/obj/item/clothing/suit/storage/hazardvest,/turf/open/floor/plating/ground/dirt,/area/lv624/ground/caves)
 "qLd" = (/obj/structure/cable,/obj/structure/disposalpipe/segment/corner{dir = 1},/obj/machinery/atmospherics/pipe/simple/supply/hidden/layer1{dir = 9},/turf/open/floor/plating/ground/dirt,/area/lv624/ground/caves)
 "qLB" = (/obj/machinery/telecomms/bus/preset_four,/turf/open/floor/mainship/tcomms,/area/mainship/command/telecomms{outside = 0})
+"qMc" = (/obj/structure/window/framed/mainship,/obj/structure/cable,/obj/structure/cable,/turf/open/floor/plating,/area/mainship/engineering/lower_engine_monitoring{outside = 0})
 "qMi" = (/mob/living/carbon/human/species/monkey,/turf/open/floor/tile/white,/area/lv624/lazarus/research)
 "qMx" = (/turf/open/ground/coast/corner2{dir = 1},/area/lv624/ground/compound/n{outside = 0})
 "qMB" = (/obj/machinery/light{dir = 4},/turf/open/floor/mainship/green{dir = 4},/area/mainship/shipboard/firing_range{outside = 0})
@@ -4610,7 +4612,6 @@
 "qUq" = (/obj/structure/table/woodentable,/obj/item/clipboard,/obj/item/paper,/obj/item/paper,/obj/item/paper,/obj/item/tool/pen,/obj/item/tool/lighter/zippo,/obj/item/clothing/head/hardhat/orange,/obj/item/clothing/suit/storage/hazardvest,/turf/open/floor/plating/ground/dirt,/area/lv624/ground/caves)
 "qUI" = (/obj/effect/decal/cleanable/vomit,/obj/effect/landmark/weed_node,/turf/open/floor/tile/blue/whiteblue{dir = 10},/area/lv624/lazarus/main_hall)
 "qUQ" = (/obj/structure/cable,/obj/structure/disposalpipe/junction{dir = 1},/turf/open/floor/mainship/mono,/area/mainship/hallways/stern_hallway{outside = 0})
-"qVf" = (/obj/structure/barricade/metal{dir = 1},/obj/structure/barricade/metal{dir = 1},/turf/open/floor/plating/ground/dirtgrassborder/corner{dir = 4},/area/lv624/ground/caves)
 "qVq" = (/obj/effect/decal/warning_stripes/thin{dir = 9},/turf/open/floor/mainship/cargo/arrow{dir = 8},/area/mainship/powered)
 "qVX" = (/obj/structure/table/mainship,/obj/item/clothing/head/hardhat/orange,/obj/item/stack/sheet/mineral/iron,/obj/item/clothing/suit/storage/hazardvest,/obj/item/analyzer,/turf/open/floor/plating/ground/dirtgrassborder{dir = 1},/area/lv624/ground/caves)
 "qVY" = (/turf/open/space/basic,/area/lv624/ground/jungle9)
@@ -5040,7 +5041,6 @@
 "tOe" = (/obj/effect/landmark/lv624/fog_blocker/xeno_spawn,/obj/effect/landmark/weed_node,/turf/open/floor/plating/ground/dirt,/area/lv624/ground/caves/east2)
 "tOA" = (/obj/structure/table/woodentable,/obj/item/storage/fancy/candle_box,/obj/item/flashlight/lamp,/turf/open/floor/wood,/area/mainship/living/chapel{outside = 0})
 "tPa" = (/obj/machinery/light{dir = 8},/obj/machinery/vending/shared_vending/marine_engi,/obj/machinery/camera/autoname/mainship{dir = 8},/turf/open/floor/mainship,/area/mainship/squads/general{outside = 0})
-"tPc" = (/obj/structure/cable,/turf/open/floor/mainship/cargo/arrow{dir = 4},/area/mainship/powered)
 "tQa" = (/obj/machinery/door/poddoor/timed_late/containment/landing_zone{dir = 2},/turf/open/floor/tile/dark,/area/lv624/lazarus/quartstorage)
 "tQx" = (/obj/structure/fence,/turf/open/floor/plating/ground/dirtgrassborder/corner2,/area/lv624/ground/caves)
 "tQP" = (/turf/closed/wall/mainship/white,/area/mainship/medical/medical_science{outside = 0})
@@ -5124,7 +5124,7 @@
 "uuv" = (/obj/structure/cable,/obj/machinery/alarm,/obj/machinery/atmospherics/pipe/manifold/supply/hidden/layer1{dir = 1},/obj/machinery/atmospherics/pipe/simple/scrubbers/hidden{dir = 4},/turf/open/floor/mainship/mono,/area/mainship/living/bridgebunks{outside = 0})
 "uuA" = (/obj/effect/decal/warning_stripes/thin{dir = 8},/turf/open/floor/mainship/tcomms,/area/mainship/hallways/hangar{outside = 0})
 "uvx" = (/obj/structure/catwalk,/turf/open/ground/river,/area/lv624/ground/jungle9)
-"uvN" = (/obj/structure/jungle/vines,/obj/structure/barricade/metal{dir = 1},/turf/open/floor/grass,/area/lv624/ground/caves)
+"uvN" = (/obj/machinery/atmospherics/pipe/simple/supply/hidden/layer1{dir = 1},/obj/structure/cable,/turf/closed/wall/mainship,/area/mainship/shipboard/firing_range{outside = 0})
 "uvP" = (/obj/effect/landmark/weed_node,/obj/effect/landmark/xeno_resin_wall,/turf/open/floor/plating/ground/dirt,/area/lv624/ground/caves/west2)
 "uvS" = (/obj/effect/landmark/weed_node,/turf/open/floor/plating/ground/dirt,/area/lv624/ground/compound/se{outside = 0})
 "uwJ" = (/obj/structure/barricade/sandbags{dir = 1},/obj/structure/barricade/sandbags{dir = 4},/turf/open/floor/mainship,/area/mainship/shipboard/firing_range{outside = 0})
@@ -5224,7 +5224,7 @@
 "vhg" = (/obj/structure/barricade/sandbags{dir = 1},/turf/open/floor/mainship/mono,/area/syndicate_station{name = "Wiped NTC FOB"; outside = 0; icon_state = "red"})
 "vhN" = (/obj/machinery/atmospherics/pipe/simple/supply/hidden/layer1{dir = 4},/obj/structure/cable,/turf/open/floor/plating/plating_catwalk,/area/mainship/hallways/starboard_hallway{name = "HQ Hallways"; outside = 0})
 "vhR" = (/turf/closed/wall/mainship,/area/lv624/ground/compound/n{outside = 0})
-"vip" = (/obj/structure/cable,/obj/machinery/atmospherics/pipe/simple/supply/hidden/layer1{dir = 1},/obj/machinery/light/small{dir = 4},/turf/open/floor/plating/plating_catwalk,/area/mainship/hallways/starboard_hallway{name = "HQ Hallways"; outside = 0})
+"vip" = (/obj/machinery/atmospherics/pipe/simple/supply/hidden/layer1{dir = 9},/turf/open/floor/wood,/area/mainship/living/numbertwobunks{outside = 0})
 "viy" = (/obj/structure/table/mainship,/obj/machinery/keycard_auth,/turf/open/floor/mainship/orange{dir = 8},/area/mainship/command/cic{outside = 0})
 "viI" = (/obj/structure/bed/chair/wood/wings{dir = 8},/turf/open/floor/wood,/area/mainship/living/grunt_rnr{outside = 0})
 "viR" = (/obj/structure/disposalpipe/segment{dir = 4},/turf/closed/wall,/area/lv624/ground/river2)
@@ -5258,7 +5258,6 @@
 "vsu" = (/obj/structure/cable,/turf/open/floor/wood,/area/mainship/living/pilotbunks{outside = 0})
 "vsB" = (/obj/structure/cable,/turf/open/floor/mainship/floor,/area/mainship/hallways/hangar{outside = 0})
 "vsD" = (/obj/structure/table/mainship,/obj/item/reagent_containers/food/snacks/creamcheesebreadslice,/obj/item/reagent_containers/food/drinks/bottle/orangejuice,/turf/open/floor/mainship/mono,/area/mainship/living/grunt_rnr{outside = 0})
-"vsP" = (/turf/open/floor/plating,/area/mainship/hallways/hangar)
 "vsS" = (/obj/structure/cable,/obj/machinery/power/monitor{name = "Main Power Grid Monitoring"},/turf/open/floor/mainship/orange/corner,/area/mainship/engineering/engine_core{outside = 0})
 "vuD" = (/obj/structure/catwalk,/turf/open/ground/coast/corner{dir = 8},/area/mainship/hallways/stern_hallway{outside = 0})
 "vuY" = (/obj/docking_port/stationary/crashmode,/turf/open/floor/plating/ground/dirtgrassborder{dir = 4},/area/shuttle/drop1/lz1)
@@ -5314,7 +5313,7 @@
 "vKh" = (/turf/open/floor/wood,/area/mainship/squads/alpha{outside = 0})
 "vKq" = (/obj/machinery/iv_drip,/turf/open/floor/mainship/sterile,/area/centcom/practice/medical{outside = 0})
 "vLs" = (/obj/effect/landmark/lv624/fog_blocker/xeno_spawn,/obj/effect/landmark/xeno_resin_door,/turf/open/floor/plating/ground/dirt,/area/lv624/ground/caves/west2)
-"vLU" = (/obj/structure/barricade/metal{dir = 1},/turf/open/floor/plating/ground/dirtgrassborder{dir = 1},/area/lv624/ground/caves)
+"vLU" = (/obj/structure/rack,/turf/open/floor/mainship/orange/corner,/area/mainship/engineering/engineering_workshop{outside = 0})
 "vMl" = (/obj/machinery/landinglight/ds1/delaytwo{dir = 1},/obj/effect/decal/warning_stripes/thin{dir = 1},/turf/open/floor/mainship,/area/mainship/hallways/hangar{outside = 0})
 "vMm" = (/obj/structure/disposalpipe/junction/flipped{dir = 2},/obj/structure/catwalk,/turf/open/ground/river,/area/lv624/ground/river3)
 "vMA" = (/obj/machinery/atmospherics/pipe/simple/supply/hidden/layer1{dir = 6},/obj/structure/cable,/turf/open/floor/plating/ground/dirt,/area/lv624/lazarus/quartstorage/outdoors)
@@ -5401,7 +5400,7 @@
 "wrE" = (/obj/machinery/landinglight/ds1{dir = 4},/obj/effect/decal/warning_stripes/thin{dir = 4},/turf/open/floor/mainship/cargo/arrow,/area/mainship/powered)
 "wrG" = (/turf/open/floor/mainship/mono,/area/mainship/living/pilotbunks{outside = 0})
 "wsp" = (/obj/machinery/atmospherics/pipe/simple/supply/hidden/layer1,/turf/open/floor/mainship/mono,/area/mainship/command/cic{outside = 0})
-"wsu" = (/obj/structure/table/mainship,/obj/item/clothing/mask/facehugger/lamarr,/turf/open/floor/wood,/area/mainship/living/numbertwobunks{outside = 0})
+"wsu" = (/obj/structure/flora/ausbushes/fullgrass,/obj/structure/barricade/plasteel{dir = 1},/turf/open/floor/grass,/area/lv624/ground/caves)
 "wsY" = (/obj/structure/cable,/obj/structure/disposalpipe/segment/corner{dir = 1},/obj/machinery/atmospherics/pipe/simple/supply/hidden/layer1{dir = 4},/turf/open/floor/mainship/mono,/area/mainship/hallways/starboard_hallway{name = "HQ Hallways"; outside = 0})
 "wtk" = (/obj/structure/flora/pottedplant/twentytwo,/turf/open/floor/mainship/mono,/area/mainship/engineering/lower_engineering{outside = 0})
 "wtt" = (/obj/structure/disposalpipe/junction/flipped{dir = 8},/turf/open/floor/mainship,/area/mainship/hallways/starboard_hallway{name = "HQ Hallways"; outside = 0})
@@ -5462,7 +5461,7 @@
 "wLx" = (/obj/machinery/miner/damaged/platinum,/turf/open/floor/plating/ground/dirt,/area/lv624/ground/caves/west1)
 "wLM" = (/obj/structure/rack,/obj/item/storage/toolbox/electrical,/turf/open/floor/tile/red/redtaupecorner{dir = 4},/area/lv624/lazarus/security)
 "wLR" = (/turf/closed/wall,/area/mainship/squads/charlie{outside = 0})
-"wLU" = (/turf/closed/mineral,/area/mainship/hallways/hangar{outside = 0})
+"wLU" = (/obj/machinery/door/firedoor/mainship,/obj/machinery/door/airlock/mainship/generic,/turf/open/floor/mainship/mono,/area/mainship/hallways/hangar{outside = 0})
 "wMk" = (/obj/structure/fence,/turf/open/floor/plating/ground/dirtgrassborder/corner2{dir = 4},/area/lv624/ground/compound/c)
 "wMO" = (/obj/effect/landmark/xeno_turret_spawn,/turf/open/floor/plating/ground/dirt,/area/lv624/ground/caves/east2)
 "wNc" = (/turf/open/floor/prison/kitchen,/area/mainship/living/captain_mess{outside = 0})
@@ -5479,7 +5478,7 @@
 "wPG" = (/obj/structure/sink/bathroom{dir = 1},/obj/structure/mirror{dir = 8; pixel_x = -32},/turf/open/floor/mainship/sterile/dark,/area/mainship/squads/bravo{outside = 0})
 "wPI" = (/obj/machinery/door/poddoor/timed_late/containment/landing_zone{dir = 2},/turf/closed/gm/dense,/area/lv624/lazarus/quartstorage/outdoors)
 "wPM" = (/obj/structure/cable,/obj/machinery/light{dir = 8},/turf/open/floor/plating/plating_catwalk,/area/mainship/living/chapel{outside = 0})
-"wPR" = (/obj/machinery/vending/marine/shared,/turf/open/floor/carpet{dir = 8; icon_state = "carpetside"},/area/mainship/living/numbertwobunks{outside = 0})
+"wPR" = (/obj/structure/closet/cabinet,/turf/open/floor/carpet{dir = 9; icon_state = "carpetside"},/area/mainship/living/numbertwobunks{outside = 0})
 "wQb" = (/obj/machinery/light/small{dir = 4},/obj/structure/closet/crate/freezer/rations,/obj/item/reagent_containers/food/snacks/xemeatpie,/obj/item/reagent_containers/food/snacks/superbiteburger,/turf/open/floor/freezer,/area/mainship/living/captain_mess{outside = 0})
 "wQh" = (/obj/structure/bed/chair/dropship/passenger,/turf/open/floor/mainship/sterile/side{dir = 1},/area/centcom/practice/medical{outside = 0})
 "wQs" = (/obj/machinery/light{dir = 1},/obj/machinery/cryopod,/turf/open/floor/tile/blue/taupebluecorner,/area/lv624/lazarus/sleep_male)
@@ -5581,7 +5580,7 @@
 "xvo" = (/obj/structure/jungle/vines/heavy,/turf/open/floor/plating/ground/dirt,/area/lv624/ground/jungle7)
 "xvy" = (/obj/machinery/landinglight/ds1{dir = 1},/turf/open/floor/mainship/cargo/arrow{dir = 1},/area/mainship/powered)
 "xvK" = (/obj/effect/decal/warning_stripes/thin{dir = 5},/turf/open/floor/mainship/cargo/arrow{dir = 4},/area/mainship/powered)
-"xvS" = (/obj/structure/bed/chair/office/dark{dir = 4},/obj/machinery/atmospherics/pipe/simple/supply/hidden/layer1{dir = 10},/obj/machinery/atmospherics/components/unary/vent_scrubber/on,/turf/open/floor/wood,/area/mainship/living/numbertwobunks{outside = 0})
+"xvS" = (/obj/structure/bed/chair/office/dark{dir = 4},/obj/machinery/atmospherics/components/unary/vent_scrubber/on,/turf/open/floor/wood,/area/mainship/living/numbertwobunks{outside = 0})
 "xvZ" = (/obj/machinery/miner/damaged,/turf/open/floor/plating/ground/dirt,/area/lv624/ground/sand1)
 "xwm" = (/turf/open/floor/plating/ground/dirtgrassborder/corner2{dir = 1},/area/lv624/ground/compound/c)
 "xww" = (/turf/closed/wall/mainship,/area/mainship/command/airoom{outside = 0})
@@ -5625,7 +5624,7 @@
 "xLA" = (/obj/structure/closet/emcloset,/obj/item/clothing/mask/gas,/turf/open/floor/mainship/mono,/area/mainship/hallways/starboard_hallway{name = "HQ Hallways"; outside = 0})
 "xLJ" = (/obj/effect/landmark/xeno_silo_spawn,/turf/open/floor/plating/ground/dirt,/area/lv624/ground/caves/west1)
 "xMT" = (/obj/effect/decal/warning_stripes/thin{dir = 9},/obj/effect/decal/warning_stripes/thin,/turf/open/floor/plating/mainship,/area/mainship/command/cic{outside = 0})
-"xMU" = (/obj/machinery/light{dir = 1},/turf/open/floor/carpet{dir = 5; icon_state = "carpetside"},/area/mainship/living/numbertwobunks{outside = 0})
+"xMU" = (/turf/open/floor/plating,/area/mainship/hallways/hangar)
 "xOe" = (/obj/structure/cable,/turf/open/floor/mainship/sterile/side{dir = 4},/area/centcom/practice/medical{outside = 0})
 "xOn" = (/obj/structure/cable,/obj/structure/disposalpipe/segment/corner,/turf/open/floor/mainship,/area/mainship/hallways/stern_hallway{outside = 0})
 "xOY" = (/obj/structure/closet/secure_closet/brig{id = "Cell 3"; name = "Cell 3"},/turf/open/floor/mainship/red{dir = 4},/area/mainship/shipboard/sensors{outside = 0})
@@ -5637,7 +5636,7 @@
 "xQp" = (/obj/structure/bed/chair/wood/wings{dir = 4},/turf/open/floor/wood,/area/mainship/living/grunt_rnr{outside = 0})
 "xRE" = (/obj/structure/jungle/vines,/turf/open/floor/plating/ground/dirtgrassborder{dir = 4},/area/lv624/ground/caves)
 "xRI" = (/obj/structure/disposalpipe/segment{dir = 4},/obj/structure/cable,/obj/machinery/atmospherics/pipe/simple/supply/hidden/layer1{dir = 4},/turf/open/floor/mainship,/area/mainship/hallways/hangar{outside = 0})
-"xRZ" = (/obj/structure/bed/chair/office/dark,/turf/open/floor/wood,/area/mainship/living/numbertwobunks{outside = 0})
+"xRZ" = (/obj/structure/bed/chair/office/dark,/obj/item/clothing/mask/facehugger/lamarr,/turf/open/floor/wood,/area/mainship/living/numbertwobunks{outside = 0})
 "xSy" = (/obj/effect/decal/cleanable/blood/oil,/obj/structure/cable,/turf/open/floor/plating/warning{dir = 4},/area/lv624/lazarus/engineering)
 "xSF" = (/turf/closed/wall/mainship/outer,/area/mainship/command/cic{outside = 0})
 "xSJ" = (/obj/structure/jungle/vines,/turf/open/floor/plating/ground/dirtgrassborder/corner2{dir = 8},/area/lv624/ground/jungle9)
@@ -5676,7 +5675,7 @@
 "yfq" = (/obj/effect/landmark/weed_node,/turf/open/floor/tile/red/full,/area/lv624/lazarus/security)
 "yfH" = (/obj/structure/cable,/obj/structure/disposalpipe/segment{dir = 4},/obj/machinery/camera/autoname/mainship,/obj/machinery/atmospherics/pipe/simple/supply/hidden/layer1{dir = 1},/turf/open/floor/mainship/mono,/area/mainship/living/grunt_rnr{outside = 0})
 "ygg" = (/obj/structure/window/framed/colony,/turf/open/floor/plating,/area/mainship/living/basketball{outside = 0})
-"ygh" = (/obj/machinery/marine_turret/premade,/turf/open/floor/grass,/area/lv624/ground/caves)
+"ygh" = (/obj/structure/barricade/metal{dir = 1},/turf/open/floor/plating/ground/dirtgrassborder{dir = 1},/area/lv624/ground/caves)
 "ygm" = (/obj/structure/jungle/plantbot1,/turf/open/floor/plating/ground/dirt,/area/lv624/ground/jungle9)
 "ygv" = (/obj/machinery/atmospherics/pipe/simple/scrubbers/hidden{dir = 4},/obj/structure/cable,/obj/machinery/atmospherics/pipe/simple/supply/hidden/layer1{dir = 4},/obj/machinery/atmospherics/pipe/simple/scrubbers/hidden{dir = 4},/turf/open/floor/mainship/floor,/area/mainship/hallways/hangar{outside = 0})
 "yhc" = (/turf/open/floor/plating/ground/dirtgrassborder/corner2{dir = 8},/area/lv624/ground/compound/n{outside = 0})
@@ -5875,12 +5874,12 @@ tEQpFYpFYpFYpFYpFYpFYpFYpFYpFYpFYpFYpFYpFYpFYtEQtEQtEQtEQxehtEQtEQxehtEQxehxehtE
 tEQtEQtEQtEQtEQtEQtEQtEQtEQtEQtEQtEQtEQtEQtEQtEQtEQtEQtEQtEQtEQtEQtEQtEQtEQtEQtEQtEQtEQtEQtEQtEQtEQtEQtEQtEQtEQtEQtEQtEQtEQtEQtEQtEQtEQtEQtEQtEQtEQfUGdpGgQydpGeRcgkEgkEgkEgkEgkEgkEgkEgkEgkEoIndpGwqljnKfUGtEQtEQtEQtEQtEQtEQtEQtEQtEQtEQtEQtEQbnQbnQbnQbnQbnQbnQbnQbnQtEQtEQbnQbnQbnQbnQbnQbnQbnQbnQbnQtEQtEQtEQtEQtEQtEQtEQtEQtEQtEQtEQtEQtEQtEQbnQbnQbnQbnQtEQtEQbnQbnQbnQbnQwhhpXYtEQtEQtEQtEQtEQtEQtEQtEQtEQtEQtEQtEQtEQtEQtEQtEQtEQtEQtEQtEQtEQtEQtEQtEQtEQtEQiIZfxzaXHxvcoiknDwuOzuOzmOnoikufRaXHbJpwnAtEQtEQtEQtEQtEQtEQtEQtEQtEQtEQ
 tEQelEelErpyelEelEelEelEelEelEtIetIetIetIetIetIetIetEQtEQtEQtEQtEQtEQtEQtEQtEQtEQtEQtEQtEQtEQtEQtEQtEQtEQtEQtEQtEQtEQtEQtEQtEQtEQtEQtEQtEQtEQtEQtEQfUGdpGlbKbWHrUmbyCecjrhGrUmbyCecjrhGrUmbyCecjeblhIWdpGfUGtEQtEQtEQtEQtEQtEQtEQtEQtEQtEQtEQbnQbnQbnQbnQbnQbnQbnQbnQbnQtEQtEQtEQbnQbnQbnQbnQbnQbnQbnQtEQtEQtEQtEQtEQtEQtEQtEQtEQtEQtEQtEQtEQtEQtEQbnQbnQbnQbnQbnQbnQbnQbnQbnQbnQbnQbnQtEQtEQtEQtEQtEQtEQtEQtEQtEQtEQtEQtEQtEQtEQtEQtEQtEQtEQtEQtEQtEQtEQtEQtEQtEQtEQiIZbJpaXHgsqoiknDwcgvmfWmOnoikxWWaXHbJpwnAtEQtEQtEQtEQtEQtEQtEQtEQtEQtEQ
 tEQelEuImvolifrelEhwaovdhGJelErQthNynsqndKqSOckhtIetEQtEQtEQtEQtEQtEQtEQtEQtEQtEQtEQtEQtEQtEQtEQtEQtEQtEQtEQtEQtEQtEQtEQtEQtEQtEQtEQtEQtEQtEQtEQtEQfUGfpEilrmYxujzujzujzujzujzujzujzujzujzujzujzuCrilrdpGfUGtEQtEQtEQtEQtEQtEQtEQtEQtEQtEQdsNdsNdsNcWkbnQbnQbnQbnQbnQtEQtEQtEQtEQdsNcWkjUIdsNcWkbnQtEQtEQtEQtEQtEQtEQtEQtEQtEQtEQtEQtEQtEQtEQtEQtEQtEQbnQbnQbnQbnQbnQbnQbnQbnQbnQbnQbnQbnQbnQtEQtEQtEQtEQtEQtEQtEQtEQtEQtEQtEQtEQtEQtEQtEQtEQtEQtEQtEQtEQtEQtEQtEQtEQiIZbJpaXHpqCfhYeuOfsPtFpthUrXJfYkaXHbJpwnAtEQtEQtEQtEQtEQtEQtEQtEQtEQtEQ
-tEQelEjyVjKWhXgelEtKvpJLfbAelEogEmbmmbmmbmmbmiiFtIetEQtEQtEQtEQtEQtEQtEQtEQtEQtEQtEQtEQtEQtEQtEQtEQtEQtEQtEQtEQtEQtEQtEQtEQtEQtEQtEQtEQtEQtEQtEQtEQfUGtMjilrwrEujzujzujzujzujzujzujzujzujzujzujzlsCilrtMjfUGtEQtEQtEQtEQtEQtEQtEQtEQtEQtEQuvNhhVeaZglWqeTvLUixHcWktEQtEQtEQtEQtEQtEQglWqVfeaZglWvLUtEQtEQtEQtEQtEQtEQtEQtEQtEQtEQtEQtEQtEQtEQtEQtEQtEQtEQbnQbnQbnQbnQbnQbnQbnQbnQtEQbnQbnQbnQtEQtEQtEQtEQtEQtEQtEQtEQtEQtEQtEQtEQtEQtEQtEQtEQtEQtEQtEQtEQtEQtEQtEQtEQiIZbJpbJpwLriIZoXjqgJoXjoXjiIZiHNbJpbJpwnAtEQtEQtEQtEQtEQtEQtEQtEQtEQtEQ
+tEQelEjyVjKWhXgelEtKvpJLfbAelEogEmbmmbmmbmmbmiiFtIetEQtEQtEQtEQtEQtEQtEQtEQtEQtEQtEQtEQtEQtEQtEQtEQtEQtEQtEQtEQtEQtEQtEQtEQtEQtEQtEQtEQtEQtEQtEQtEQfUGtMjilrwrEujzujzujzujzujzujzujzujzujzujzujzlsCilrtMjfUGtEQtEQtEQtEQtEQtEQtEQtEQtEQtEQglWhhVwsudkqbTJyghantcWktEQtEQtEQtEQtEQtEQdkqiqcwsudkqyghtEQtEQtEQtEQtEQtEQtEQtEQtEQtEQtEQtEQtEQtEQtEQtEQtEQtEQbnQbnQbnQbnQbnQbnQbnQbnQtEQbnQbnQbnQtEQtEQtEQtEQtEQtEQtEQtEQtEQtEQtEQtEQtEQtEQtEQtEQtEQtEQtEQtEQtEQtEQtEQtEQiIZbJpbJpwLriIZoXjqgJoXjoXjiIZiHNbJpbJpwnAtEQtEQtEQtEQtEQtEQtEQtEQtEQtEQ
 tEQelEoZZuyAdHpelEmyDelEelEelEfoTkhvtBttBthoJkantIetEQtEQtEQtEQtEQtEQtEQtEQtEQtEQtEQtEQtEQtEQtEQtEQtEQtEQtEQtEQtEQtEQtEQtEQtEQtEQtEQtEQtEQtEQtEQtEQfUGdpGcehmFtujzujzujzujzujzujzujzujzujzujzujzyebcehjnKfUGtEQtEQtEQtEQtEQtEQtEQtEQtEQtEQlhtbCXhEYhEYcDDhLFlhttEQtEQtEQtEQtEQtEQtEQlhthLFhEYhLFlhttEQtEQtEQtEQtEQtEQtEQtEQtEQtEQtEQtEQtEQtEQtEQtEQtEQtEQbnQbnQtEQtEQbnQbnQbnQbnQtEQtEQbnQbnQtEQtEQtEQtEQtEQtEQtEQtEQtEQtEQtEQtEQtEQiIZiIZiIZiIZiIZiIZiIZiIZiIZiIZiIZiIZiIZiIZiIZiIZwpWrGTwpWtGEiIZwnAwnAwnAwnAtEQtEQtEQtEQtEQtEQtEQtEQtEQtEQ
 tEQelEnCpuyAcgSqdXvXarjswYKelEmbmxhLfZgvHFuYUuFCtIedvQdvQdvQdvQdvQdvQdvQdvQdvQdvQdvQdvQdvQdvQdvQdvQdvQdvQdvQdvQdvQdvQdvQtEQtEQtEQtEQtEQtEQtEQtEQtEQfUGdpGcehkWuujzujzujzujzujzujzujzujzujzujzujzptWcehdpGfUGtEQtEQtEQtEQtEQtEQtEQtEQtEQtEQhhVhhVmoFhhVmoFhhVhhVtEQtEQtEQtEQtEQtEQtEQhhVhhVmoFrxhhhVtEQlaxlaxlaxlaxlaxtEQtEQtEQtEQtEQtEQtEQtEQtEQtEQtEQtEQbnQtEQtEQtEQbnQbnQtEQbnQbnQtEQbnQbnQtEQtEQtEQtEQtEQtEQtEQtEQtEQtEQtEQtEQtEQiIZxSOxSOxSOxSOxSOxSOxSOxSOxSOxSOcWixSOxSOxSOclWxSOwGuxSOefLclWxSOvbixSOwnAtEQtEQtEQtEQtEQtEQtEQtEQtEQtEQ
-tEQelEmlFwRTfibvktjuvkAPminxiavgivbujIhfYtuYUfVInkllMFskzlMFlMFlMFizngcCpOOntlcxCkMScmtcxCsxUpOObIqlMFlMFmEzlMFskzlMFdvQtEQtEQtEQtEQiIZiIZiIZiIZiIZiIZfpEilrcMOujzujzujzujzujzujzujzujzujzujzujzuCrilrdpGfUGtEQtEQtEQtEQtEQtEQtEQtEQtEQtEQhEYjnxhEYqBohEYcUFhEYhEYhEYhEYhEYhEYhEYhEYjrWhEYqBohEYcUFlaxlaxlaxlaxlaxlaxlaxlaxlaxtEQtEQtEQtEQtEQtEQtEQtEQtEQbnQbnQtEQtEQbnQbnQtEQbnQbnQbnQbnQbnQtEQtEQtEQtEQtEQtEQtEQtEQtEQtEQtEQtEQtEQiIZxSOiIZiIZiIZiIZiIZiIZiIZiIZiIZpYMiIZiIZiIZtxvjykrGTwpWpSsiIZiIZiIZxSOwnAtEQtEQtEQtEQtEQtEQtEQtEQtEQtEQ
+tEQelEmlFwRTfibvktjuvkAPminxiavgivbujIhfYtuYUfVInkllMFskzlMFlMFlMFizngcCpOOntlcxCkMScmtcxCsxUpOObIqlMFlMFmEzlMFskzlMFdvQtEQtEQtEQtEQiIZiIZiIZiIZiIZiIZfpEilrcMOujzujzujzujzujzujzujzujzujzujzujzuCrilrdpGfUGtEQtEQtEQtEQtEQtEQtEQtEQtEQtEQhEYjnxhEYnXvhEYcUFhEYhEYhEYhEYhEYhEYhEYhEYjrWhEYnXvhEYcUFlaxlaxlaxlaxlaxlaxlaxlaxlaxtEQtEQtEQtEQtEQtEQtEQtEQtEQbnQbnQtEQtEQbnQbnQtEQbnQbnQbnQbnQbnQtEQtEQtEQtEQtEQtEQtEQtEQtEQtEQtEQtEQtEQiIZxSOiIZiIZiIZiIZiIZiIZiIZiIZiIZpYMiIZiIZiIZtxvjykrGTwpWpSsiIZiIZiIZxSOwnAtEQtEQtEQtEQtEQtEQtEQtEQtEQtEQ
 tEQelEuDBsFFqGMkJGyluixUlQielEogEiBWvqcgVtfeTrOHuhUnrmqIDmGumGumGumGunuFtZjshMmOUmaUmJqthelaBfsUfTokcDkcDkcDkcDgvRlMFdvQtEQtEQtEQtEQiIZtLhaxPeSdhwygiDtMjilrwrEujzujzujzujzujzujzujzujzujzujzujzlsCilrtMjfUGtEQtEQtEQtEQtEQtEQtEQtEQtEQhEYhEYhEYhEYrLuhEYhEYhEYwlthEYhEYhEYcDDhEYhEYhEYrLuhEYiZxhEYhEYhEYhEYlaxlaxlaxlaxlaxlaxlaxtEQtEQtEQtEQtEQtEQtEQtEQbnQbnQtEQbnQbnQbnQtEQtEQbnQbnQbnQbnQtEQtEQtEQtEQtEQtEQtEQtEQtEQtEQtEQtEQtEQiIZxSOiIZaXHaXHaXHaXHaXHaXHaXHaXHpdRaXHaXHaXHaXHaXHmIgaXHbJpsjYguXiIZxSOwnAtEQtEQtEQtEQtEQtEQtEQtEQtEQtEQ
-tEQelEjxRuyAuyAkJGlPioEulPiuZXmbmhtNjIhrCRscwmbmnkllMFskzlMFlMFlMFdTPgcCpOOntlcxCwspsyfgCUsxUpOObIqlMFlMFlMFlMFmJYrqudvQtEQtEQtEQtEQiIZaXHwIGwIGkYngiDdpGcehmFtujzujzujzujzujzujzujzujzujzujzujzyebcehjnKfUGtEQtEQtEQtEQtEQtEQtEQtEQtEQhEYhEYhEYhEYyghxCuhEYhEYwGShEYhEYhEYhEYhEYhEYhEYhEYyghhEYhEYhEYhEYhEYhEYhEYlaxlaxlaxlaxlaxtEQtEQtEQtEQtEQtEQtEQtEQbnQbnQbnQbnQbnQtEQtEQtEQbnQbnQtEQtEQtEQtEQtEQtEQtEQtEQtEQtEQtEQtEQtEQtEQtEQnpRxSOnpRaXHhVbtzstzsmeIiATiATiATiATiATiATiATiATiATxbOugRaXHaXHguXiIZxSOwnAtEQtEQtEQtEQtEQtEQtEQtEQtEQtEQ
+tEQelEjxRuyAuyAkJGlPioEulPiuZXmbmhtNjIhrCRscwmbmnkllMFskzlMFlMFlMFdTPgcCpOOntlcxCwspsyfgCUsxUpOObIqlMFlMFlMFlMFmJYrqudvQtEQtEQtEQtEQiIZaXHwIGwIGkYngiDdpGcehmFtujzujzujzujzujzujzujzujzujzujzujzyebcehjnKfUGtEQtEQtEQtEQtEQtEQtEQtEQtEQhEYhEYhEYhEYmNzxCuhEYhEYwGShEYhEYhEYhEYhEYhEYhEYhEYmNzhEYhEYhEYhEYhEYhEYhEYlaxlaxlaxlaxlaxtEQtEQtEQtEQtEQtEQtEQtEQbnQbnQbnQbnQbnQtEQtEQtEQbnQbnQtEQtEQtEQtEQtEQtEQtEQtEQtEQtEQtEQtEQtEQtEQtEQnpRxSOnpRaXHhVbtzstzsmeIiATiATiATiATiATiATiATiATiATxbOugRaXHaXHguXiIZxSOwnAtEQtEQtEQtEQtEQtEQtEQtEQtEQtEQ
 tEQelErmNilpkrsnMIkJGubiqvBelEmbmdCoskFmWGmbmuWusSwlMFskzlMFfORfORfORfORxSFhCNlQsxyAcvwlQsieaxSFfORfORfORfORairlOVairdvQtEQtEQtEQylZknWhyChrcwUUbTTwOtgYuePckWuujzujzujzujzujzujzujzujzujzujzujzptWcehdpGfUGtEQtEQtEQtEQtEQtEQhEYhEYhEYhEYhEYhEYhEYhEYhEYhEYhEYhEYhEYhEYhEYhEYhEYhEYfzdhEYhEYhEYhEYhEYhEYhEYhEYhEYlaxlaxlaxlaxlaxlaxtEQtEQtEQtEQtEQtEQtEQbnQbnQbnQbnQbnQtEQtEQtEQtEQtEQtEQtEQtEQtEQtEQtEQtEQtEQtEQtEQtEQtEQtEQtEQkPCnZPxSOnZPaXHvbFaXHaXHfpofWZjbQnCRkZffeFjbQnCRkZffeFjbQnCRkZfsNZeXaiIZxSOwnAtEQtEQtEQtEQtEQtEQtEQtEQtEQtEQ
 tEQelEelEelEelEelEelEhaXelEelEtIetIetIetIetIetIetIetiMskzlMFfORtgktgktgkxSFwHmcxCwspsyfcxCjCAxSFtgktgktgkfORlMFskzlMFdvQdvQdvQdvQdvQdvQdvQtVKjimdvQdvQfpEsWUmXybakujzujzujzujzujzujzujzujzujzlQuhRkilrdpGfUGtEQtEQtEQtEQtEQtEQhEYhEYhEYhEYhEYhEYwlthEYhEYcDDhEYhEYhEYhEYhEYhEYhEYhEYhEYwlthEYhEYhEYhEYhEYhEYhEYwlthEYlaxlaxlaxlaxlaxtEQtEQtEQtEQtEQtEQbnQbnQbnQbnQbnQtEQtEQtEQtEQtEQtEQtEQtEQtEQtEQtEQtEQtEQtEQtEQtEQtEQtEQtEQtEQtEQiIZxSOiIZaXHvbFaXHaXHfpoibqhkchkchkchkchkchkchkchkchkchkchkcgyXpEHiIZobqwnAtEQtEQtEQtEQtEQtEQtEQtEQtEQtEQ
 tEQnJgudWcOAnmItzdtMfuVbrrOuuvbPElHyqGsxqjwVswVsjwWlMFskzlMFxSFxSFxSFxSFxSFjNkjNkmbEqyMjNkjNkxSFxSFxSFxSFxSFlMFskzlMFmLJlMFlMFlMFlMFlMFlMFbJnlMFlMFlMFtMjsWUujIbakujzujzujzujzujzujzujzujzujzlQuoIHilrtMjfUGtEQtEQtEQtEQtEQtEQdbndbnhEYhEYhEYhEYhEYlhtlhthEYhEYhEYhEYhEYhEYhEYhEYhEYhEYhEYhEYlhtlhthEYhEYhEYwGShEYhEYlaxlaxlaxlaxlaxtEQtEQtEQtEQtEQtEQbnQbnQbnQbnQbnQtEQtEQtEQtEQtEQtEQtEQtEQtEQtEQtEQtEQtEQtEQtEQtEQtEQtEQtEQtEQtEQiIZxSOiIZaXHvbFaXHaXHfpoeFDhkchkchkchkchkchkchkchkchkchkchkcinYqJtiIZxSOwnAtEQtEQtEQtEQtEQtEQtEQtEQtEQtEQ
@@ -5890,25 +5889,25 @@ tEQnJgtpAwgrnJgtpAwgrnJgtpAwgrnJgtpAwgrnJgrlYskzlMFnQFnQFnQFnQFmcpllinQFviydfCwq
 tEQnJgtbBpcTnJgtbBpcTnJgtbBpcTnJgtbBpcTxaYlMFskzlMFnQFwZwkwidkFcxCcxCwKecxCwspcxCwairthbLYsyfsodeFkcxCcxCgSygPeeSFnQFdGcgZEsoHfdsoxodImsCUsCUsCUlWZnHMdpGoShmYxujzujzujzujzujzujzujzujzujzujzujzievilrdpGfUGlMFfUGfUGfUGfUGfUGlaxgauhEYhEYhEYhEYhEYhEYhEYhEYhEYhEYhEYhEYwnShEYhEYhEYhEYhEYhEYhEYhEYhEYwGShEYhEYhEYlaxlaxlaxlaxlaxtEQtEQtEQtEQtEQtEQbnQbnQbnQbnQbnQtEQtEQtEQtEQtEQtEQtEQtEQtEQtEQtEQtEQtEQwnAsApgsqhkchkchkchkchkchkchkcxWWaXHgxEvbFdJSttHfpoeFDhkchkchkchkchkchkchkchkchkchkchkcinYaXHiIZpakwnApAltEQtEQtEQtEQtEQtEQtEQtEQtEQ
 tEQnJgnJgnJgnJgnJgnJgnJgnJgnJgnJgnJgnJgnJglMFgUUlMFnQFuFZoyYcxCcxCcxCkJrcxCulzcxCuLCtUFcxCgCUpGtfkhsodcxCcxCoyYokfnQFdGcqjQnHegipwhCxLlsCUtQTsCUpDLwbetMjoPFmFtujzujzujzujzujzujzujzujzujzujzujzipxcehpFOfUGlMFfUGlaxlaxlaxlaxlaxhEYhEYhEYhEYhEYhEYhEYxCuhEYhEYhEYhEYhEYhEYhEYhEYhEYcDDhEYhEYhEYfzdhEYhEYhEYhEYhEYlaxlaxlaxlaxlaxtEQtEQtEQtEQtEQhEYbnQbnQbnQbnQbnQtEQtEQtEQtEQtEQtEQtEQtEQtEQtEQtEQtEQtEQiIZwVugsqhkchkchkchkchkchkchkcxWWaXHgxEvbFeaaeaafpomjxhkchkchkchkchkciXbhkchkchkchkchkciIRkNxiIZxSOvbipAltEQtEQtEQtEQtEQtEQtEQtEQtEQ
 tEQronronnvkgREitDaXmtZNsqFqgzvvxwDilMFlMFlMFgUUlMFlRblRblRblRbrhmlRblRbnQFliPpPOnQFnQFliPpPOnQFnQFjVNiOsbQBjkjnrInQFdGctcasCUgipsCUsCUsCUxsosCUdvxwbedpGoPFkWuujzujzujzujzujzujzujzujzujzujzujzptWcehdpGfUGlMFfUGlaxlaxlaxlaxlaxhEYhEYhEYhEYcDDhEYhEYhEYhEYfzdhEYhEYhEYhEYwlthEYhEYhEYhEYhEYhEYhEYhEYhEYhEYhEYhEYlaxlaxlaxlaxtEQtEQtEQtEQtEQtEQhEYcWkbnQbnQbnQtEQtEQtEQtEQtEQtEQtEQtEQtEQtEQtEQtEQtEQtEQiIZtxTgsqhkchkchkchkchkchkchkcxWWaXHgxEgIkhtRqwfjYsnKKjDahkchkchkchkchkchkchkchkchkchXcmflqJtiIZiIZpakpAltEQtEQtEQtEQtEQtEQtEQtEQtEQ
-tEQronronnvklvaaDIxvSnrMrgfnvkhjPhQujxMtvQjXdjFqcNQhvGkXisJYsPJcGjakWlRbhyFnQroXboSAsMnnQroXbtFanQFcdfnQFnQFnQFnQFnQFdGcddvsCUgipsCUsCUtJOksBsCUsCUwbefpEoShcMOujzujzujzujzujzujzujzujzujzujzujzuCrilrdpGfUGnybfUGlaxlaxlaxlaxlaxlaxlaxhEYhEYhEYhEYlhtlhthEYhEYhEYhEYhEYhEYhEYhEYhEYhEYhEYhEYlhtlhthEYhEYhEYhEYhEYlaxlaxlaxlaxtEQtEQtEQtEQtEQhEYhEYdMKbnQhEYtEQtEQtEQtEQtEQtEQtEQtEQtEQtEQtEQtEQtEQtEQtEQiIZsHZgsqhkchkchkchkchkchkchkcxWWcceiIZbJpnlIaHYbJpibqhkchkchkchkchkchkchkchkchkchkchkcvrPkoWoikiIZobqpAltEQtEQtEQtEQtEQtEQtEQtEQtEQ
-tEQnvknvknvknvknvkqzVgWNrgfnvkledlRblRblRblRblRblRblRbvNRsFZitGpRSkHclRbgrUnQroXbaKRxYCnQroXbtFanQFsbaozRxwwozRiWCxwwdGcjBUokZgiptXTsCUsCUsCUsCUlubdGcdpGoShmYxujzujzujzujzujzujzujzujzujzujzujzievilrdpGfUGlMFfUGlaxlaxlaxlaxlaxlaxlaxhEYhEYhEYhEYlhtlhthEYhEYhEYhEYhEYhEYhEYhEYhEYhEYhEYhEYlhtlhthEYcDDhEYhEYlaxlaxlaxlaxlaxtEQtEQtEQtEQtEQhKphEYhEYhEYhEYtEQtEQtEQtEQtEQtEQtEQtEQtEQtEQtEQtEQtEQtEQtEQiIZjJjgsqhkchkchkcxXPhkchkchkcxWWaXHrEIbJptROaXHbJpeFDhkchkchkchkchkchkchkchkchkchkchkcoTOeaacHziIZxSOpAltEQtEQtEQtEQtEQtEQtEQtEQtEQ
-tEQnvkfGWrDNmBCnvkeECuHJpkdnvktTdlRboFtjbPtKQbrgpKklRbkygkygkygxnekyglRbslWxMToEGqvsqvscTwrifoLLnQFkPSydGovIiWCrTwxwwdGcdlCgaZgipkUMsCUsCUsCUrIMlxEdGcdpGoPFmFtujzujzujzujzujzujzujzujzujzujzujzyebcehjnKfUGlMFfUGlaxlaxlaxlaxlaxlaxhEYhEYhEYhEYhEYhEYhEYhEYhEYhEYhEYhEYhEYhEYhEYhEYhEYhEYhEYhEYhEYhEYhEYhEYlaxlaxlaxlaxtEQtEQtEQtEQlhtbCXhLFhEYhEYhEYhEYtEQtEQtEQtEQtEQtEQtEQtEQtEQtEQtEQtEQtEQtEQtEQtEQiIZvrjgsqhkchkchkchkchkchkchkcxWWkPoiIZbJpiucaXHbJpmjxhkchkchkchkchkchkchkchkchkchkchkcsSzpwVuulmMJxSOpAltEQtEQtEQtEQtEQtEQtEQtEQtEQ
-tEQnvknvknvkhLSnvkhNqnvknvknvkkHGlRbgQIgrigrigrigrinREgrigrigrigrivBUlRbuiIfFwmmbrlTnMmliTydnueknQFkIEauzbmFnnswXbxwwdGchQnjEcgipkUMsCUsCUsCUsCUsCUwwltMjoPFvglujzujzujzujziSTujzujzujzujzujzujztincehtMjfUGlMFfUGlaxlaxlaxlaxlaxlaxhEYwlthEYhEYhEYwGShEYhEYhEYhEYhEYhEYxCuhEYhEYhEYhEYhEYhEYxCuhEYhEYhEYhEYhEYlaxlaxtEQtEQtEQbNAhKphKphhVhhVhzffLPtEQtEQtEQtEQtEQtEQtEQtEQtEQtEQtEQtEQtEQtEQtEQtEQtEQtEQiIZrHSgsqhkchkchkchkchkchkchkcxWWaXHgxEbJpiucqhCbJpnKKhkchkchkchkchkchkchkchkchkchkchkcnNYwcIlqSiIZxSOpAltEQtEQtEQtEQtEQtEQtEQtEQtEQ
-tEQnvkdkqxMUaDIdvlpLpelQnvkjxdkHGlRbmhucvjqomjsXkSdqOAxrwfyigrigrigfvlRbnQFnQFnQFohhnQFnQFnQFnQFnQFmopxwwxwwxwwxwwxwwdGcrSvlThgipkUMsCUsCUsCUsCUgXNdGcfpEoShcMOujzujzujzujzgNDgNDgNDujzujzujzujzuCrilrdpGfUGlMFfUGlaxlaxlaxlaxlaxlaxhEYhEYxCuhEYhEYhEYhEYhEYhEYhEYhEYhEYhEYhEYhEYhEYhEYhEYhEYhEYhEYhEYhEYhEYhEYhEYhEYhEYhEYhEYhEYhEYhEYhEYbNAxJUhLFtEQtEQtEQtEQtEQtEQtEQtEQtEQtEQtEQtEQtEQtEQtEQtEQtEQtEQiIZmFGgsqhkchkchkchkchkchkchkcxWWqJtkNUbJpiucaXHbJpibqhkchkchkchkchkchkchkchkchkchkchkcgyXmkjpgdiIZxSOpAltEQtEQtEQtEQtEQtEQtEQtEQtEQ
-tEQnvkwPRapemMrmMrlmAxRZnvkaJOkHGlRblRblRblRblRblRblRbiwCvSAgribvMqLBudDnGtlMFmEzlMFlMFhkdlMFhwYtkUqjRlMFlMFizalMFjNLmtzgbxooghjWuQxuQxuQxuQxuQxuQxwbedpGoShxvKtNLwZTqQPivPxvyuaTbLnivPtNLdHaqQPqVqilrdpGfUGlMFfUGlaxlaxlaxlaxlaxlaxhEYhEYhEYhEYhEYhEYhEYcDDhEYhEYhEYhEYhEYhEYhEYhEYhEYhEYhEYhEYhEYhEYhEYhEYhEYhEYcRdcRdcRdcRdcRdcRdcRdhEYhEYcwvhLFtEQtEQtEQtEQtEQtEQtEQtEQtEQtEQtEQtEQtEQtEQtEQtEQtEQtEQgYnjMcgsqhkchkchkchkchkchkchkcxWWaXHgxEbJpiucaXHbJpeFDhkchkchkchkchkchkchkchkchkchkchkcinYjQSuGciIZjuUpAltEQtEQtEQtEQtEQtEQtEQtEQtEQ
-tEQnvkbykcNRdJVesshkXwsunvkqPmsNygpfvkBvkBantvkBvkBlRbgQIgrigrigrigfvudDlMFtYXhFmhFmhFmhFmhFmhFmhFmfzWhFmhFmhFmhFmijUgcyoBjkcOtjMtjMiDFtjMtjMwPeuQxwbedpGqogtxzqnAqnAtxztxzqnAsVZqnAtxzoFjilrilrcehcehjnKfUGnybfUGlaxlaxlaxlaxlaxlaxlaxhEYhEYhEYhEYhEYhEYhEYhEYhEYhEYhEYhEYhEYhEYhEYhEYhEYhEYhEYhEYhEYdbndbndbnhEYcRdlzdsmtxCptTongscRdhEYbNAhEYlhtwLUiIZiIZiIZiIZiIZiIZiIZiIZiIZiIZiIZiIZiIZiIZiIZiIZiIZgYnsAppqCpwVpwVpwVpwVpwVpwVpwVfYkwVDiIZpNxiucaXHpNxmjxhkchkchkchkchkchkchkchkchkchkchkciIRegxpgdiIZxSOpAltEQtEQtEQtEQtEQtEQtEQtEQtEQ
-tEQbHPbHPonkbHPbHPsxisxihmPlWIgzCsxisxisxisxisxiukZlRbofncjGujLbFdsmmudDlMFskzlMFlMFlMFlMFlMFlMFlMFlMFdTPlMFlMFlMFhybfHludjvQduqwuqwuqwuqwuqwmDGxWDlbutPcpaTdpGdpGqSogECdpGoFhoFhmmudpGhrghXCdpGdpGdpGgFbfUGlMFfUGlaxlaxlaxlaxlaxlaxlaxlaxdbndbnxCuhEYhEYhEYhEYhEYhEYhEYhEYhEYwGShEYhEYhEYhEYcDDhEYhEYqsDhEYhEYhEYobRvCrvCrvCrvCrvCrnXvhEYhEYlaxlaxwLUwLUaXHpdRaXHaXHaXHaXHaXHpdRaXHaXHaXHaXHaXHpdRaXHaXHlQRvsBjMcvsBjMcjMcjMcjMcjMcjMcvsBjMcrEIxSOcTEaXHpNxpqCsFysFyrcrdPWxLrwHDkTodPWsFyhySrcrfYkeNzlYmiIZxSOpAltEQtEQtEQtEQtEQtEQtEQtEQtEQ
-tEQxpwxXdnERofjbHPkmCdXZcoDhfQwpphlTlKjizurbpsxiyeiwEqlRblRblRblRblRblRblMFskzlMFdvQdvQdvQdvQdvQdvQdvQdvQdvQdvQqXxlMFqukcHDvQduqwuqwuqwuqwuqwmDGxWDdGcfUGfUGfUGfUGfUGfUGfUGfUGfUGfUGfUGaCcfUGcjEwRgfUGfUGfUGlMFfUGfUGfUGfUGfUGfUGfUGfUGlaxhEYxpjhEYhEYhEYhEYhEYhEYhEYhEYhEYhEYhEYhEYhEYhEYhEYxCuhEYhEYkQthEYhEYhEYcRdtsEgdWfRveCEjWIcRdtEQtEQtEQtEQwLUiIZaXHiIZiIZiIZiIZiIZiIZiIZiIZiIZiIZiIZiIZiIZiIZiIZiIZiIZiIZiIZiIZiIZiIZiIZiIZiIZiIZiIZiIZbJpcLXeGBfmwgQZgQZhNuygvkfWdtStcYvSQkbjiSvgQZgQZoYWbYNuoDclWjzSpAltEQtEQtEQtEQtEQtEQtEQtEQtEQ
-tEQbHPpztwzqfoImbMwrlmlmogShbAlHkeqQeqQeqQbFOxqtdZPbLOwuVbLObLOeBabLOvrEbLOvANlMFpAltEQtEQtEQtEQtEQtEQtEQtEQpAlmLJmLJqukwPtjzeuqwuqwmFquqwuqwdoSxWDdGcewTbtKewTnKJrFtbtKjrbrFtcKRjrboUCubTmZhmZhmZhvxKmZhmZhmZhmZhmZhmZhxENmZhmZhmZhfUGlaxhEYwlthEYhEYhEYhEYhEYhEYcDDhEYhEYhEYhEYhEYhEYhEYbNAhEYhEYhEYhEYhEYhEYtEQcRdcRdxAEcRdcRdcRdcRdtEQtEQtEQtEQtEQiIZaXHiIZtEQtEQtEQtEQtEQtEQtEQtEQtEQtEQtEQtEQtEQtEQtEQtEQtEQtEQtEQtEQtEQtEQtEQtEQtEQpAliIZaXHqdtaXHbEXbEXbEXbEXbEXbEXiIZiIZiIZiIZiIZiIZiIZuPItartartartartartartartartEQtEQtEQtEQtEQtEQ
+tEQronronnvklvamMrxvSnrMrgfnvkhjPhQujxMtvQjXdjFqcNQhvGkXisJYsPJcGjakWlRbhyFnQroXboSAsMnnQroXbtFanQFcdfnQFnQFnQFnQFnQFdGcddvsCUgipsCUsCUtJOksBsCUsCUwbefpEoShcMOujzujzujzujzujzujzujzujzujzujzujzuCrilrdpGfUGnybfUGlaxlaxlaxlaxlaxlaxlaxhEYhEYhEYhEYlhtlhthEYhEYhEYhEYhEYhEYhEYhEYhEYhEYhEYhEYlhtlhthEYhEYhEYhEYhEYlaxlaxlaxlaxtEQtEQtEQtEQtEQhEYhEYdMKbnQhEYtEQtEQtEQtEQtEQtEQtEQtEQtEQtEQtEQtEQtEQtEQtEQiIZsHZgsqhkchkchkchkchkchkchkcxWWcceiIZbJpnlIaHYbJpibqhkchkchkchkchkchkchkchkchkchkchkcvrPkoWoikiIZobqpAltEQtEQtEQtEQtEQtEQtEQtEQtEQ
+tEQronronnvkbuYaDIqzVgWNrgfnvkledlRblRblRblRblRblRblRbvNRsFZitGpRSkHclRbgrUnQroXbaKRxYCnQroXbtFanQFsbaozRxwwozRiWCxwwdGcjBUokZgiptXTsCUsCUsCUsCUlubdGcdpGoShmYxujzujzujzujzujzujzujzujzujzujzujzievilrdpGfUGlMFfUGlaxlaxlaxlaxlaxlaxlaxhEYhEYhEYhEYlhtlhthEYhEYhEYhEYhEYhEYhEYhEYhEYhEYhEYhEYlhtlhthEYcDDhEYhEYlaxlaxlaxlaxlaxtEQtEQtEQtEQtEQhKphEYhEYhEYhEYtEQtEQtEQtEQtEQtEQtEQtEQtEQtEQtEQtEQtEQtEQtEQiIZjJjgsqhkchkchkcxXPhkchkchkcxWWaXHrEIbJptROaXHbJpeFDhkchkchkchkchkchkchkchkchkchkchkcoTOeaacHziIZxSOpAltEQtEQtEQtEQtEQtEQtEQtEQtEQ
+tEQnvknvknvknvknvkeECuHJpkdnvktTdlRboFtjbPtKQbrgpKklRbkygkygkygxnekyglRbslWxMToEGqvsqvscTwrifoLLnQFkPSydGovIiWCrTwxwwdGcdlCgaZgipkUMsCUsCUsCUrIMlxEdGcdpGoPFmFtujzujzujzujzujzujzujzujzujzujzujzyebcehjnKfUGlMFfUGlaxlaxlaxlaxlaxlaxhEYhEYhEYhEYhEYhEYhEYhEYhEYhEYhEYhEYhEYhEYhEYhEYhEYhEYhEYhEYhEYhEYhEYhEYlaxlaxlaxlaxtEQtEQtEQtEQlhtbCXhLFhEYhEYhEYhEYtEQtEQtEQtEQtEQtEQtEQtEQtEQtEQtEQtEQtEQtEQtEQtEQiIZvrjgsqhkchkchkchkchkchkchkcxWWkPoiIZbJpiucaXHbJpmjxhkchkchkchkchkchkchkchkchkchkchkcsSzpwVuulmMJxSOpAltEQtEQtEQtEQtEQtEQtEQtEQtEQ
+tEQnvkfGWrDNmBCnvkhNqnvknvknvkkHGlRbgQIgrigrigrigrinREgrigrigrigrivBUlRbuiIfFwmmbrlTnMmliTydnueknQFkIEauzbmFnnswXbxwwdGchQnjEcgipkUMsCUsCUsCUsCUsCUwwltMjoPFvglujzujzujzujzmjVujzujzujzujzujzujztincehtMjfUGlMFfUGlaxlaxlaxlaxlaxlaxhEYwlthEYhEYhEYwGShEYhEYhEYhEYhEYhEYxCuhEYhEYhEYhEYhEYhEYxCuhEYhEYhEYhEYhEYlaxlaxtEQtEQtEQbNAhKphKphhVhhVhzffLPtEQtEQtEQtEQtEQtEQtEQtEQtEQtEQtEQtEQtEQtEQtEQtEQtEQtEQiIZrHSgsqhkchkchkchkchkchkchkcxWWaXHgxEbJpiucqhCbJpnKKhkchkchkchkchkchkchkchkchkchkchkcnNYwcIlqSiIZxSOpAltEQtEQtEQtEQtEQtEQtEQtEQtEQ
+tEQnvknvknvkhLSnvkpLpelQnvkjxdkHGlRbmhucvjqomjsXkSdqOAxrwfyigrigrigfvlRbnQFnQFnQFohhnQFnQFnQFnQFnQFmopxwwxwwxwwxwwxwwdGcrSvlThgipkUMsCUsCUsCUsCUgXNdGcfpEoShcMOujzujzujzujzgNDgNDgNDujzujzujzujzuCrilrdpGfUGlMFfUGlaxlaxlaxlaxlaxlaxhEYhEYxCuhEYhEYhEYhEYhEYhEYhEYhEYhEYhEYhEYhEYhEYhEYhEYhEYhEYhEYhEYhEYhEYhEYhEYhEYhEYhEYhEYhEYhEYhEYhEYbNAxJUhLFtEQtEQtEQtEQtEQtEQtEQtEQtEQtEQtEQtEQtEQtEQtEQtEQtEQtEQiIZmFGgsqhkchkchkchkchkchkchkcxWWqJtkNUbJpiucaXHbJpibqhkchkchkchkchkchkchkchkchkchkchkcgyXmkjpgdiIZxSOpAltEQtEQtEQtEQtEQtEQtEQtEQtEQ
+tEQnvkwPRapeaDIdvlvipxRZnvkaJOkHGlRblRblRblRblRblRblRbiwCvSAgribvMqLBudDnGtlMFmEzlMFlMFhkdlMFhwYtkUqjRlMFlMFizalMFjNLmtzgbxooghjWuQxuQxuQxuQxuQxuQxwbedpGoShxvKtNLwZTqQPivPxvyuaTbLnivPtNLdHaqQPqVqilrdpGfUGlMFfUGlaxlaxlaxlaxlaxlaxhEYhEYhEYhEYhEYhEYhEYcDDhEYhEYhEYhEYhEYhEYhEYhEYhEYhEYhEYhEYhEYhEYhEYhEYhEYhEYcRdcRdcRdcRdcRdcRdcRdhEYhEYcwvhLFtEQtEQtEQtEQtEQtEQtEQtEQtEQtEQtEQtEQtEQtEQtEQtEQtEQtEQgYnjMcgsqhkchkchkchkchkchkchkcxWWaXHgxEbJpiucaXHbJpeFDhkchkchkchkchkchkchkchkchkchkchkcinYjQSuGciIZjuUpAltEQtEQtEQtEQtEQtEQtEQtEQtEQ
+tEQnvkbykcNRdJVesshkXnrMnvkqPmsNygpfvkBvkBdnzvkBvkBlRbgQIgrigrigrigfvudDlMFtYXhFmhFmhFmhFmhFmhFmhFmfzWhFmhFmhFmhFmijUgcyoBjkcOtjMtjMiDFtjMtjMwPeuQxwbedpGqogtxzqnAqnAtxztxzqnAsVZqnAtxzoFjilrilrcehcehjnKfUGnybfUGlaxlaxlaxlaxlaxlaxlaxhEYhEYhEYhEYhEYhEYhEYhEYhEYhEYhEYhEYhEYhEYhEYhEYhEYhEYhEYhEYhEYdbndbndbnhEYcRdlzdsmtxCptTokuXcRdhEYbNAhEYlhtbZgiIZiIZiIZiIZiIZiIZiIZiIZiIZiIZiIZiIZiIZiIZiIZiIZiIZgYnsAppqCpwVpwVpwVpwVpwVpwVpwVfYkwVDiIZpNxiucaXHpNxmjxhkchkchkchkchkchkchkchkchkchkchkciIRegxpgdiIZxSOpAltEQtEQtEQtEQtEQtEQtEQtEQtEQ
+tEQbHPbHPonkbHPbHPsxisxihmPlWIgzCsxisxisxisxisxiukZlRbofncjGujLbFdsmmudDlMFskzlMFlMFlMFlMFlMFlMFlMFlMFdTPlMFlMFlMFhybfHludjvQduqwuqwuqwuqwuqwmDGxWDlbumMSqBodpGdpGqSogECdpGoFhoFhmmudpGhrghXCdpGdpGdpGgFbfUGlMFfUGlaxlaxlaxlaxlaxlaxlaxlaxdbndbnxCuhEYhEYhEYhEYhEYhEYhEYhEYhEYwGShEYhEYhEYhEYcDDhEYhEYqsDhEYhEYhEYobRvCrvCrvCrvCrvCreaZhEYhEYlaxlaxbZgbZgaXHpdRaXHaXHaXHaXHaXHpdRaXHaXHaXHaXHaXHpdRaXHaXHwLUvsBjMcvsBjMcjMcjMcjMcjMcjMcvsBjMcrEIxSOcTEaXHpNxpqCsFysFyrcrdPWxLrwHDkTodPWsFyhySrcrfYkeNzlYmiIZxSOpAltEQtEQtEQtEQtEQtEQtEQtEQtEQ
+tEQxpwxXdnERofjbHPkmCdXZcoDhfQwpphlTlKjizurbpsxiyeiwEqlRblRblRblRblRblRblMFskzlMFdvQdvQdvQdvQdvQdvQdvQdvQdvQdvQqXxlMFqukcHDvQduqwuqwuqwuqwuqwmDGxWDdGcfUGfUGfUGfUGfUGfUGfUGfUGfUGfUGfUGaCcfUGcjEwRgfUGfUGfUGlMFfUGfUGfUGfUGfUGfUGfUGfUGlaxhEYxpjhEYhEYhEYhEYhEYhEYhEYhEYhEYhEYhEYhEYhEYhEYhEYxCuhEYhEYkQthEYhEYhEYcRdtsEgdWfRveCEvLUcRdtEQtEQtEQtEQbZgiIZaXHiIZiIZiIZiIZiIZiIZiIZiIZiIZiIZiIZiIZiIZiIZiIZiIZiIZiIZiIZiIZiIZiIZiIZiIZiIZiIZiIZiIZbJpcLXeGBfmwgQZgQZhNuygvkfWdtStcYvSQkbjiSvgQZgQZoYWbYNuoDclWjzSpAltEQtEQtEQtEQtEQtEQtEQtEQtEQ
+tEQbHPpztwzqfoImbMwrlmlmogShbAlHkeqQeqQeqQbFOxqtdZPbLOwuVbLObLOjWIbLOvrEbLOvANlMFpAltEQtEQtEQtEQtEQtEQtEQtEQpAlmLJmLJqukwPtjzeuqwuqwmFquqwuqwdoSxWDdGcewTbtKewTnKJrFtbtKjrbrFtcKRjrboUCubTmZhmZhmZhvxKmZhmZhmZhmZhmZhmZhxENmZhmZhmZhfUGlaxhEYwlthEYhEYhEYhEYhEYhEYcDDhEYhEYhEYhEYhEYhEYhEYbNAhEYhEYhEYhEYhEYhEYtEQcRdcRdxAEcRdcRdcRdcRdtEQtEQtEQtEQtEQiIZaXHiIZtEQtEQtEQtEQtEQtEQtEQtEQtEQtEQtEQtEQtEQtEQtEQtEQtEQtEQtEQtEQtEQtEQtEQtEQtEQpAliIZaXHqdtaXHbEXbEXbEXbEXbEXbEXiIZiIZiIZiIZiIZiIZiIZuPItartartartartartartartartEQtEQtEQtEQtEQtEQ
 tEQbHPjMLdzexrJbHPsPQfuXoQcwtkntUeSCuESeHasxisxisxisxilcXdvQdvQdvQdvQdvQdvQdvQdvQjaGdzGdzGdzGdzGdzGdzGdzGdzGdzGlMFlMFtVHnzBvQduqwuqwuqwuqwuqwmDGxWDdGcnKJnKJjfsjfsjfsgXsjfsjfssUInKJgxarZLfUGfUGfUGfUGfUGfUGfUGfUGfUGfUGfUGfUGfUGmZhfUGdiuhnQhnQdiudiudiudiudiudiudiudiudiudiudiudiudiudiudiudiudiudiudiuhnQhnQgiUgiUgiUfiQgiUgiUgiUgiUgiUgiUgiUgiUgiUiIZaXHiIZgiUgiUgiUgiUgiUgiUgiUgiUgiUgiUgiUgiUgiUgiUgiUgiUgiUgiUgiUgiUgiUgiUgiUgiUgiUgiUvhRrcJxEzrcJvhRgiUgiUgiUgiUgiUgiUgiUgiUgiUgiUgiUiIZuPItarfNnoDJoDJtarnosgFotartEQtEQtEQtEQtEQtEQ
-tEQbHPcDBtsWnXwbHPvYSsnXtMXsxisxisxisxisxisxiuHpmkhsxivipdvQtEQtEQtEQtEQtEQtEQtEQdzGdCrlQNwutmLdmLdmLdpFSgVLdcylMFlMFdGcjSYvQduqwuqwuqwuqwuqwmDGrjDafJdRwgzNoyLoyLoyLupgoyLoyLgRhoKTelgqapfUGdiudiudiudiudiudiudiudiudiudiudiufUGmbhfUGfUGfWgmfvfUGnTAnTAnTAnTAnTAnTAnTAnTAnTAnTAnTAnTAnTAnTAnTAnTAnTAfUGfWgmfvlUhlUhlUhwhLlUhlUhlUhlUhlUhlUhlUhlUhlUhiIZbZgiIZdiudiutykdiudiudiudiudiudiudiudiudiudiudiudiudiudiudiudiudiudiudiudiudiudiudoQkzYljjtGunAIaAbaAbaAbaAbaAbaAbaAdnaaaGgnaarwTdiuiIZsZkiwUdsjmjEwrGwvcvsuvsuctNtEQtEQtEQtEQtEQtEQ
+tEQbHPcDBtsWqMcbHPvYSsnXtMXsxisxisxisxisxisxiuHpmkhsxieivdvQtEQtEQtEQtEQtEQtEQtEQdzGdCrlQNwutmLdmLdmLdpFSgVLdcylMFlMFdGcjSYvQduqwuqwuqwuqwuqwmDGrjDafJdRwgzNoyLoyLoyLupgoyLoyLgRhoKTelgqapfUGdiudiudiudiudiudiudiudiudiudiudiufUGmbhfUGfUGfWgmfvfUGnTAnTAnTAnTAnTAnTAnTAnTAnTAnTAnTAnTAnTAnTAnTAnTAnTAfUGfWgmfvlUhlUhlUhwhLlUhlUhlUhlUhlUhlUhlUhlUhlUhiIZqeTiIZdiudiutykdiudiudiudiudiudiudiudiudiudiudiudiudiudiudiudiudiudiudiudiudiudiudoQkzYljjtGunAIaAbaAbaAbaAbaAbaAbaAdnaaaGgnaarwTdiuiIZsZkiwUdsjmjEwrGwvcvsuvsuctNtEQtEQtEQtEQtEQtEQ
 tEQvTVtiNtiNtiNiBOeDkxgUxgUjyrdlyslofCaatJcXudzhvNyeRhxfTdvQdzGdzGdzGdzGdzGdzGdzGdzGbIArqarqarqarqarqarqavBzdzGlMFlMFdGctWrgNasVLsVLgALsVLsVLvIrfEedGcewTnKJewTuBTiLvfQHcnniLvwkucnngxaqmlfUGdiudiudiusdjhnQqyYhnQhnQhnQhnQhnQtBWhnQhnQgFTsdjhnQrfNrfNrfNrfNrfNrfNrfNrfNrfNrfNrfNrfNrfNrfNrfNrfNrfNrfNrfNhnQsdjlUhuEktKCtXysYAgAjfPNbOglUhllGezUkiMlUhaEhaEhaEhaEhaEhmIzaEhwoNyfedMyoPWnaaaGgnaaaGgaGgaGgnaaaGgaGgbPUaGgaGgnaaaGgaGgaGgvNuclpiZHsgLeoLqCFkzYgVOaAbaAbdoQgVOaBsaCAaCAaCAcdKdiuiIZiIZtarteaxQdoDJtarqjDrvttartEQtEQtEQtEQtEQtEQ
 tEQvTVpBpiBOsBSsBSiBOdcZdcZiBOsBSsBStiNpBpsxisxisxisxitWKdvQdzGuJeuIYuIYuIYuIYuIYiTtoSurqarqarqarqarqarqanjtdzGlMFlMFdGcqtXkkDkkDkkDkkDkkDkkDkkDkvLdGcydWydWydWydWydWydWydWydWydWydWfUGxGCfUGdiudiudiuhnQhnQhnQhnQhnQqyYwuKhnQvadhnQbNshnQhnQhnQlPOphUjGFjGFndhjGFgMFgMFndhkyhndhpltpltjGFndhjGFjGFsAIyggbNshnQlUhtJnwNcecWwNcwNcwNclPKwtEkfmkfmkfmlUhaEhbZKbZKbZKbZKsXRaEhgLtkyddMyoPWaGgaGgaGgaGgaGgaGgaGgaGgaGgaGgaGgaGgaGgaGgaGgaGgaANclpiZHcnIeoLsgLiZHqMxkzYkzYlSjqMxkzYkzYkzYgVOaAdaGgdiugiUtartartartartartartartartEQtEQtEQtEQtEQtEQ
 tEQvTVbxSdmfkFfkFfjqlfQMfQMrnikFfkFfjqluYHsxigdabMOvPopeltEQdzGclrdzGdzGdzGdzGdzGdzGbIArqarqarqarqarqarqaflfdzGmLJmLJdGckCjeygnAzgqSsCUjsdtdmhtOndQdGcydWdjQwlcuuAydWxpckMfkMfmhNydWfUGrZLfUGdiudiuhnQhnQhnQhnQqyYhnQhnQhnQhnQtBWhnQnOWhnQwuKhnQyggpgjwfWrKTrKTrKTovkovkrKTrKTrKTovkovkrKTrKTrKTwiOjqzygghnQhnQrggxzqskcpYasHCwQVwNccPolUhkfmwZDwQblUhnUdvZtbZKbZKbZKbZKaEhgLtuNydMyoPWaGgaGgaGgaGgaGgaGgaGgaGgaGgaGgaGgaGgtDAaGgaGgaGgaANdJiddVsgLeoLsgLiZHiZHiZHiZHmDKiZHiZHiZHiZHsdeaAdnaadiugiUtEQtEQtEQtEQtEQtEQtEQtEQtEQtEQtEQtEQtEQtEQ
-tEQvTVpBpiBOsBSsBSvxjmBUlxjiBOsBSsBStiNtiNfCZotnotnkmLmNzdzGdzGvVHdzGtEQtEQtEQtEQdzGumqsBpnBKnBKnBKnBKlgUtpfdzGqXxlMFgpZdGcmtzmtzdGcxmbdGcmtzeyRdGcdGcydWomfcMQslerLZsUKnzanzawyeydWfUGrZLfUGdiudiudiugFThnQnOWhnQhnQhnQhnQbNskSbhnQhnQhnQhnQsdjrfNkXzhiofWfvDqgSXafGafGafGhZsafGafGafGgSXmdhwTupgBdCprfNhnQwKFiwPwJGecWliKoagtDGoaghjLlUhkfmwZDvcRlUhaEhbZKbZKbZKbZKbZKaEhgLtjnVdMyoPWaGgaGgaGgaGgaGgtDAaGgaGgaGgtDAaGgaGgaGgaGgaGgaGgaANaAbclpsgLeoLsgLiZHiZHiZHiZHiZHiZHiZHiZHogugZCaAdcQTdiugiUtEQtEQtEQtEQtEQtEQtEQtEQtEQtEQtEQtEQtEQtEQ
+tEQvTVpBpiBOsBSsBSvxjmBUlxjiBOsBSsBStiNtiNfCZotnotnkmLuvNdzGdzGvVHdzGtEQtEQtEQtEQdzGumqsBpnBKnBKnBKnBKlgUtpfdzGqXxlMFgpZdGcmtzmtzdGcxmbdGcmtzeyRdGcdGcydWomfcMQslerLZsUKnzanzawyeydWfUGrZLfUGdiudiudiugFThnQnOWhnQhnQhnQhnQbNskSbhnQhnQhnQhnQsdjrfNkXzhiofWfvDqgSXafGafGafGhZsafGafGafGgSXmdhwTupgBdCprfNhnQwKFiwPwJGecWliKoagtDGoaghjLlUhkfmwZDvcRlUhaEhbZKbZKbZKbZKbZKaEhgLtjnVdMyoPWaGgaGgaGgaGgaGgtDAaGgaGgaGgtDAaGgaGgaGgaGgaGgaGgaANaAbclpsgLeoLsgLiZHiZHiZHiZHiZHiZHiZHiZHogugZCaAdcQTdiugiUtEQtEQtEQtEQtEQtEQtEQtEQtEQtEQtEQtEQtEQtEQ
 tEQvTVvTVvTVvTVvTVvTVvTVvTVvTVvTVvTVvTVvTVaEYaEYvDbaEYqeCiEYxicrqadzGtEQtEQtEQydWydWydWydWehmydWydWydWydWydWydWnDMnDMaXHpdRaXHaXHpdRaXHpdRaXHaXHydWydWydWydWydWydWydWydWydWydWdvgydWydWoQEydWydWydWydWydWydWaxuaxuqWTqWTqWTqWTcHWqWTtjKqWTqWTqWTrfNpgjhiocOgoGwwNhoGwoGwoGwtweoGwoGwoGwcOgoGwwNhpgBjqzjAwhnQhnQiwPlUhlUhdPXlUhlUhlUhjZMlUhlUhlUhlUhlUhvHGaEhaEhaEhaEhaEhaEhgLtweWtykoPWaGgtDAaGgaGgaGgaGgaGgaGgaGgaGgaGgaGgaGgaGgaGgaGgaANaAbclpsgLeoLsgLiZHiZHiZHiZHiZHiZHiZHpcasdeaAOfIScjFdiugiUtEQtEQtEQtEQtEQtEQtEQtEQtEQtEQtEQtEQtEQtEQ
 tEQtEQtEQtEQtEQtEQtEQtEQtEQtEQtEQtEQdzGdzGdzGdzGdzGdzGpTqhxEtIdylEdzGdzGdzGtEQydWaXHpdRaXHaXHaXHpdRaXHaXHaXHpdRaXHaXHaXHaXHaXHaXHaXHaXHaXHaXHaXHrEIaXHaXHpdRaXHaXHaXHpdRaXHrMZlpDpdRaXHpMMaXHpdRaXHaXHaXHydWhnQhnQqWTmeddODaubaubdODaubaubdODmedrfNnWJhioepSoGwhMmoGwoGwoGwfgyoGwoGwoGwhMmoGweOApgBjqzoNthnQwuKbYFfbksHkwoPekNwnkfnmsHkpVpdwuxbcnGOtykwoNgLtgLtgLtgLtgLtgLtgLtgZttykoPWaGgaGgaGgaGgaGgaGgaGgaGgaGgaGgaGgaGgaGgaGgtDAaGgaANaAbdJieRQrlzsgLiZHogurnNrnNrnNrnNrnNrnNgZCaAdaGguhediugiUtEQtEQtEQtEQtEQtEQtEQtEQtEQtEQtEQtEQtEQtEQ
-tEQtEQtEQtEQtEQtEQtEQtEQtEQtEQtEQtEQdzGfOnpFSdzGmLdbbVdgKrqafgIylEdzGxLqdzGtEQydWaXHxVMxVMxVMxVMxVMxVMxVMxVMxVMxVMxVMxVMxVMxVMxVMxVMxVMxVMxVMqJtydWaXHxVMxVMxVMxVMxVMxVMxVMpNxrJllJtoOSpBZxRIxRIxRIrSxqJtydWbNshnQqWThEUaublLdeQDaubaubqWTaubhEUrfNkXzhiocOgoGwwNhoGwoGwoGwtweoGwoGwoGwcOgoGwwNhpgBdCprfNxtShnQbYFiOBsHkwoPsHkwnkxELsHksHklimsHkpirtykhjglqrgLtqroxQptIRviIidCesztykoPWaGgaGgaGgaGgaGgaGgaGgaGgaGgaGgaGgaGgaGgaGgaGgaGgiObatZyhcvuDehQmrQrnNgZCaAbaAbaAbaAbaAbaAOatZfISaGgaGgdiugiUtEQtEQtEQtEQtEQtEQtEQtEQtEQtEQtEQtEQtEQtEQ
+tEQtEQtEQtEQtEQtEQtEQtEQtEQtEQtEQtEQdzGfOnpFSdzGmLdbbVdgKrqafgIylEdzGxLqdzGtEQydWaXHxVMxVMxVMxVMxVMxVMxVMxVMxVMxVMxVMxVMxVMxVMxVMxVMxVMxVMxVMqJtydWaXHxVMxVMxVMxVMxVMxVMxVMpNxrJllJtoOSpBZxRIxRIxRIrSxqJtydWbNshnQqWThEUaubkQneQDaubaubqWTaubhEUrfNkXzhiocOgoGwwNhoGwoGwoGwtweoGwoGwoGwcOgoGwwNhpgBdCprfNxtShnQbYFiOBsHkwoPsHkwnkxELsHksHklimsHkpirtykhjglqrgLtqroxQptIRviIidCesztykoPWaGgaGgaGgaGgaGgaGgaGgaGgaGgaGgaGgaGgaGgaGgaGgaGgiObatZyhcvuDehQmrQrnNgZCaAbaAbaAbaAbaAbaAOatZfISaGgaGgdiugiUtEQtEQtEQtEQtEQtEQtEQtEQtEQtEQtEQtEQtEQtEQ
 tEQtEQtEQtEQtEQtEQtEQtEQtEQtEQtEQtEQdzGbIArqaiTtrqarqarqarqarqarqaiTtclrdzGtEQydWaXHxVMbcqfMucGQeLejmyhMDoXqrdKhMDoXqhMDoXqrdKfMucGQeLeoVUxVMaXHydWaXHxVMxVMbcqfMucGQeLejmyhMDoXqrdKjmyfMucGQeLeoVUinKaXHydWhnQhnQqWThBcbiXbiXuoKiNuaubbiXbiXhBcrfNpgjhiomVfybpbDirOerOerOejbKrOerOerOebDimPjnNGpgBjqzygghnQhnQbYFrwfsHkwoPsHkwnkklAsHksHksHksHkmTunbagiggLtgLtgLtxQppSaviIidCkydtykoPWaGgaGgaGgaGgtDAaGgaGgaGgtDAaGgaGgaGgaGgaGgaGgaGgaGgaGgqEZlDYsghlDYedHgoPedHedHedHatZatZfISaGgaGgaGgaGgdiugiUtEQtEQtEQtEQtEQtEQtEQtEQtEQtEQtEQtEQtEQtEQ
 tEQtEQtEQtEQtEQtEQtEQtEQtEQtEQtEQtEQdzGbIAylEdzGclrclrnBKclrclrylEdzGvVHdzGtEQydWwubxVMoFfhkchkchkchkchkchkchkchkchkchkchkchkchkchkchkclQnxVMaXHydWwubxVMxVMoFfhkchkchkchkchkchkchkchkchkchkchkciYSinKaXHydWhnQhnQqWTbPxbiXbiXuoKqeKaubbiXbiXbPxrfNpgjmEifuzfuzfuzjGFjGFkeDkeDkeDjGFjGFkeDkeDkeDtSKjqzyggnOWhnQbYFgwYsHkwoPsHkwnkbGphpetuTllBvXepqgtykidCgLtsoEwytxQpjQrviIidCreMtykoPWaGgaGgtDAaGgaGgaGgaGgaGgaGgaGgaGgtDAaGgaGgaGgaGgaGgaGgaGgrjqusIrjqaGgaGgaGglwluhebYsaGgaGglwlaGgaNXuhediugiUgiUtEQtEQtEQtEQtEQtEQtEQtEQtEQtEQtEQtEQtEQ
 tEQtEQtEQtEQtEQtEQtEQtEQtEQtEQtEQtEQdzGclrykXdzGnTFrqafvZnTFrqadzGdzGuIYdzGtEQydWaXHxVMoFfhkchkchkchkchkchkchkchkchkchkchkchkchkchkchkclQnxVMaXHydWaXHxVMxVMoFfhkchkchkchkchkchkchkchkchkchkchkciIWinKaXHydWwuKhnQqWTbPxqsWbiXuoKhBcaubbiXbiXbPxrfNhYdovkovkovkrhHovkovkovkrhHovkovkovkovkrhHovkovkrWPtykiUQrTUbYFjoehsCwZusHksHkwnkwnkwnkwnkwnkiDwtyktykvjityktyktykqAUqAUqAUqAUqAUwWXqAUpBNpBNpBNnaepBNpBNkUBkUBkUBipCkUBkUBeyqeyqeyqmgYeyqeyqrjqmMVrjqaGgaGgaGgtyknbanbanbanbatyknbanbanbatykaGggiUtEQtEQtEQtEQtEQtEQtEQtEQtEQtEQtEQtEQtEQ
@@ -5916,7 +5915,7 @@ tEQtEQtEQtEQtEQtEQtEQtEQtEQtEQtEQtEQdzGvVHdzGdzGbIArqamLdrqaylEdzGhyIgVLdzGtEQyd
 tEQtEQtEQtEQtEQtEQtEQtEQtEQtEQtEQtEQdzGrlsgVLdzGbIArqarqarqaylEdzGbIAylEdzGtEQydWaXHpNxnZGhkchkchkchkchkchkchkchkchkchkchkchkchkchkchkcvDdpNxaXHydWaXHaXHpNxnZGhkchkchkchkchkchkchkchkchkchkchkcxWbwCDaXHydWhnQwKFqWThBchFxbiXuoKpPuaubbiXhFxhBcrfNrStgyCgyCkpIgnaiIeiIeiIeiIegnacFMgnacFMgnapoMoGKjPGtykcDYneXkIodRMaGzaHFtGxdRMdRMdRMdRMdRMdRMdRMjCSuCKgLttykhnQhnQqAUhjAmHhqAUyaHinRqAUtASxBjpBNjqJcrmpBNlJSlhGkUBryiscPkUBwPGxnqeyqopqqMCeyqrjqusIrjqaGgaGgaGgnbaouwsHksHksHksHksHksHkpJdtykaGggiUtEQtEQtEQtEQtEQtEQtEQtEQtEQtEQtEQtEQtEQ
 tEQtEQtEQtEQtEQtEQtEQtEQtEQtEQtEQtEQdzGfgIylEfvZbIArqarqarqaylEfvZbIAfgIdzGtEQydWwubpNxxcnhkchkchkchkchkchkchkchkchkchkchkchkchkchkchkcvDdpNxaXHydWwubaXHpNxxcnhkchkchkchkchkchkchkchkchkchkchkckVgyhokJXydWxtShnQqWTqWTqWTqWTuoKbTWaubqWTqWTqWTrfNixFgwkgwkixFgnakQopoMpoMnUSgnagDNgnagDNgnapoMgnagnatykcDYjUhkIodRMdRMdRMdRMdRMdRMdRMdRMdRMdRMdRMrlpbNuvvBtyknOWhnQqAUqAUkDUtYnrNqqAUqAUpBNiwRriGsXvpBNpBNkUBqelnUpcoakUBkUBeyqmNUnAMnRYeyqeyqrjqxdrrjqaGgaGgtcRtyktNDtIRunjcJOgErunjdnmunjtykaGggiUtEQtEQtEQtEQtEQtEQtEQtEQtEQtEQtEQtEQtEQ
 tEQtEQtEQtEQtEQtEQtEQtEQtEQtEQtEQtEQdzGnBKmfbfvZwGTrqarqarqaylEfvZtxwtpfdzGtEQydWaXHpNxxKsnDwhkchkchkchkchkchkchkchkchkchkchkchkchkcmOnvDdpNxaXHydWaXHaXHpNxxKshkchkchkchkchkchkchkchkchkchkchkccXShjqaXHydWhnQhnQqWTohmpCRmafuoKgPIaubpsirXOsNTrfNixFwwngwkixFgnagnagDNgnagnagnapoMpoMmPOpoMlpQoGKjPGtykgLtfeDpbEdRMdRMdRMdRMdRMdRMdRMdRMdRMdRMdRMdRMfeDgLttykxtSwKFqAUlLIuZInYruZIxXFqAUbHUvKhxjlvKhtmOpBNoTtlmAxpAlmAlMfkUBdVmxfbmaaxfbaYVeyqrjqecDrjqgLtgLtgLtrTUouwwnkwnkwnkwnksHksHksoXtykaGggiUtEQtEQtEQtEQtEQtEQtEQtEQtEQtEQtEQtEQtEQ
-tEQtEQtEQtEQtEQtEQtEQtEQtEQtEQtEQtEQdzGdzGdzGdzGdzGfgIrqarqaylEdzGfvZfvZdzGtEQydWaXHpNxsYbnDwhkchkchkchkchkchkchkchkchkchkchkchkchkcmOnvDdpNxqJtydWaXHaXHpNxsYbhkchkchkcvsPhkchkchkchkchkchkchkcwqHhjqqJtydWnOWhnQqWTbDvaubaubuoKgPIaubaubaubggjrfNhepjxngyCxcEgnaqzHaHVcAcxZqonepoMpoMgnapoMpoMgnagnatykgLtfeDpbEaPmdRMpFupFudRMdRMdRMpFupFudRMaPmdRMfeDvbWtykhnQsdjqAUwDSuZIuZIxttlnQqAUmhQvKhvKhslXhzcpBNmnZlmAlmAcIzjRhkUBdrsxfbxfboUmlJDeyqrjqbDorjqgLtdRMwWfnaypuVlHplHplHpdaKtykhyrtyktykaGggiUtEQtEQtEQtEQtEQtEQtEQtEQtEQtEQtEQtEQtEQ
+tEQtEQtEQtEQtEQtEQtEQtEQtEQtEQtEQtEQdzGdzGdzGdzGdzGfgIrqarqaylEdzGfvZfvZdzGtEQydWaXHpNxsYbnDwhkchkchkchkchkchkchkchkchkchkchkchkchkcmOnvDdpNxqJtydWaXHaXHpNxsYbhkchkchkcxMUhkchkchkchkchkchkchkcwqHhjqqJtydWnOWhnQqWTbDvaubaubuoKgPIaubaubaubggjrfNhepjxngyCxcEgnaqzHaHVcAcxZqonepoMpoMgnapoMpoMgnagnatykgLtfeDpbEaPmdRMpFupFudRMdRMdRMpFupFudRMaPmdRMfeDvbWtykhnQsdjqAUwDSuZIuZIxttlnQqAUmhQvKhvKhslXhzcpBNmnZlmAlmAcIzjRhkUBdrsxfbxfboUmlJDeyqrjqbDorjqgLtdRMwWfnaypuVlHplHplHpdaKtykhyrtyktykaGggiUtEQtEQtEQtEQtEQtEQtEQtEQtEQtEQtEQtEQtEQ
 tEQtEQtEQtEQtEQtEQtEQtEQtEQtEQtEQtEQtEQtEQtEQtEQdzGfFvfFvrqarlsmLdmLdgVLdzGtEQydWaXHxVMwFynDwhkchkchkchkchkchkchkchkchkchkchkchkchkcmOnlQnxVMaXHydWaXHaXHxVMwFyhkchkchkchkchkchkchkchkchkchkchkcbaWevGaXHydWhnQbNsqWTgXakPVrnDvbtvVJvbtuoKqAFeWGrfNmkxxXLkxEqTRgnapoMpoMpoMsEitIuiTgpoMdWkpoMpoMoGKjPGtykfigfeDpbEdRMpFupFuojpbUfbUfbUfvOwpFupFudRMdRMfeDvsDtyknOWwuKqAUhAKpLjjhjacfbWzqAUfvTeelprvhnNmTqpBNmYEkQxrsaaxslZikUBdPocFAsOWvlJdQBeyqrjqusIebNgLtdRMuIttykiSwtgvsHktgvqwstykgwjqMRtykaGggiUtEQtEQtEQtEQtEQtEQtEQtEQtEQtEQtEQtEQtEQ
 tEQtEQtEQtEQtEQtEQtEQtEQtEQtEQtEQtEQtEQtEQtEQtEQdzGbIArqarqarqafgIrqaylEdzGtEQydWwubaXHjYHhkchkchkchkchkchkchkchkchkchkchkchkchkchkchkcvDdxVMaXHydWydWwubaXHdCmtHLhkchkchkchkchkchkchkchkchkccCTbvVhWXaXHydWmscmscqWTqWTglrkgWqWTqmBqWTfIhkgWqWTrfNrfNavSaIerfNtFRgnagnagnataWgnagnalHXqEwgnagnagnagnatykbbLfeDpbEdRMpFuojpgZugZugZugZugZuvOwpFudRMdRMfeDtRhtykmGsmGsqAUqAUtITqAUqAUqAUqAUpBNxGppBNpBNpBNpBNkUBczlkUBkUBkUBkUBeyqncIeyqeyqeyqeyqmGslKDxbRgLtdRMuItnbafXltmGsHksoWtJEtykgwjpsBtykaGggiUtEQtEQtEQtEQtEQtEQtEQtEQtEQtEQtEQtEQtEQ
 tEQtEQtEQtEQtEQtEQtEQtEQtEQtEQtEQtEQtEQtEQtEQtEQdzGbIArqarqarqarqarqaylEdzGtEQydWaXHpNxmuJhkchkchkchkchkchkchkcmFZhkchkchkchkchkchkchkcvDdpNxaXHaXHrEIaXHpNxwbLtHLhkchkchkchkchkchkchkchkchkccCTndttbIvkVhHRpwKwttvdWvgfwRgpgSwRgrJvvgfmZhpgSwRgiaYvgfrZLmhrwRgwRgvgfwRgwRgclGwRgvgfwRgvyUwRglMFmEzlMFdRMfrhmbvcXQizJizJrbObOCvdjvdjvdjbOCvzuizJizJizJjnevnQwzZszEjbWaKwrLUxwZsNHsNHeTXsNHrLUxwZsNHsNHeTXsNHrLUxwZsNHsNHeTXsNHrLUxwZsNHsNHeTXsNHsNHptUpjxgLtdRMuIttyknbanbanbanbanbatyktyktyktykaGggiUtEQtEQtEQtEQtEQtEQtEQtEQtEQtEQtEQtEQtEQ
