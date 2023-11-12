@@ -4535,7 +4535,7 @@
 "qiV" = (/obj/effect/decal/warning_stripes/thin{dir = 4},/obj/effect/decal/warning_stripes/thin{dir = 8},/obj/structure/cable,/obj/machinery/light{dir = 8},/obj/machinery/power/smes/preset,/turf/open/floor/mainship/tcomms,/area/mainship/engineering/engine_core{outside = 0})
 "qjg" = (/obj/machinery/floodlight/colony,/turf/open/floor/plating/ground/dirt,/area/lv624/ground/sand8)
 "qjD" = (/obj/machinery/alarm{dir = 4},/obj/structure/bed,/obj/item/bedsheet/brown,/obj/effect/landmark/start/job/pilotofficer,/turf/open/floor/wood,/area/mainship/living/pilotbunks{outside = 0})
-"qjQ" = (/obj/structure/table/mainship,/obj/item/pizzabox/meat,/turf/open/floor/mainship/mono,/area/mainship/squads/req{outside = 0})
+"qjQ" = (/obj/structure/table/mainship,/obj/item/pizzabox/meat,/obj/item/storage/box/monkeycubes,/obj/item/storage/box/monkeycubes,/obj/item/storage/box/monkeycubes,/obj/item/storage/box/monkeycubes,/obj/item/storage/box/monkeycubes,/turf/open/floor/mainship/mono,/area/mainship/squads/req{outside = 0})
 "qjR" = (/obj/structure/disposalpipe/segment,/obj/structure/cable,/turf/open/floor/mainship/mono,/area/mainship/hallways/starboard_hallway{name = "HQ Hallways"; outside = 0})
 "qjS" = (/obj/structure/cable,/obj/machinery/light,/turf/open/floor/mainship/mono,/area/mainship/living/grunt_rnr{outside = 0})
 "qkd" = (/obj/structure/cable,/turf/open/floor/plating/ground/dirt,/area/lv624/ground/compound/sw)
