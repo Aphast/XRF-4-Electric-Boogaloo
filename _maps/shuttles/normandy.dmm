@@ -51,7 +51,9 @@
 /turf/open/shuttle/dropship/floor,
 /area/shuttle/dropship/normandy)
 "jx" = (
-/obj/machinery/computer/shuttle/marine_dropship/two,
+/obj/machinery/computer/shuttle/marine_dropship/two{
+	possible_destinations = "lz1;lz2;hqlz1;hqlz2;alamo;normandy"
+	},
 /turf/open/shuttle/dropship/floor,
 /area/shuttle/dropship/normandy)
 "jY" = (

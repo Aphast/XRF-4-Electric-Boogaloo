@@ -13,6 +13,7 @@
 "ge" = (/obj/structure/cable,/obj/machinery/power/smes/magical,/turf/open/floor/plating/plating_catwalk,/area/mainship/hallways/port_hallway{outside = 0; name = "NTC Eagle Dropship"})
 "gp" = (/obj/machinery/cryopod/right,/obj/machinery/light{dir = 8},/obj/structure/cable,/obj/machinery/power/apc/mainship/hardened,/turf/open/floor/mainship,/area/mainship/hallways/port_hallway{outside = 0; name = "NTC Eagle Dropship"})
 "gS" = (/turf/open/floor/mainship_hull,/area/mainship/hallways/port_hallway{outside = 0; name = "NTC Eagle Dropship"})
+"gW" = (/obj/docking_port/stationary/marine_dropship/hangar/one{name = "Docking Area"},/turf/open/space/transit/atmos,/area/space)
 "hy" = (/obj/structure/dropprop,/obj/structure/droppod{name = "Zeus orbital drop pod"},/turf/open/floor/mainship,/area/mainship/hallways/port_hallway{outside = 0; name = "NTC Eagle Dropship"})
 "hY" = (/obj/machinery/cryopod/right,/obj/machinery/light{dir = 8},/turf/open/floor/mainship,/area/mainship/hallways/port_hallway{outside = 0; name = "NTC Eagle Dropship"})
 "io" = (/obj/structure/cable,/obj/effect/landmark/start/job/squadengineer,/obj/effect/landmark/start/job/squadengineer,/obj/effect/landmark/start/job/squadengineer,/obj/effect/landmark/start/job/squadengineer,/obj/effect/landmark/start/job/squadengineer,/obj/effect/landmark/start/job/squadengineer,/obj/effect/landmark/start,/turf/open/floor/plating/plating_catwalk,/area/mainship/hallways/port_hallway{outside = 0; name = "NTC Eagle Dropship"})
@@ -26,12 +27,12 @@
 "no" = (/obj/structure/cable,/turf/closed/wall/mainship/outer,/area/space)
 "nB" = (/obj/structure/cable,/turf/closed/wall/mainship,/area/mainship/hallways/port_hallway{outside = 0; name = "NTC Eagle Dropship"})
 "nK" = (/obj/structure/cable,/obj/structure/cable,/turf/open/space/transit/atmos,/area/space)
-"pn" = (/obj/structure/cable,/obj/effect/landmark/start/job/crash/squadmarine,/obj/effect/landmark/start/job/crash/squadmarine,/obj/effect/landmark/start/job/crash/squadmarine,/obj/effect/landmark/start/latejoin,/turf/open/floor/plating/plating_catwalk,/area/mainship/hallways/port_hallway{outside = 0; name = "NTC Eagle Dropship"})
+"pn" = (/obj/structure/cable,/obj/effect/landmark/start/job/crash/squadmarine,/obj/effect/landmark/start/job/crash/squadmarine,/obj/effect/landmark/start/job/crash/squadmarine,/obj/effect/landmark/start/latejoin,/obj/machinery/power/terminal{dir = 1},/turf/open/floor/plating/plating_catwalk,/area/mainship/hallways/port_hallway{outside = 0; name = "NTC Eagle Dropship"})
 "pF" = (/obj/structure/cable,/obj/structure/ladder{id = "eagleladder1"; height = 1},/turf/open/floor/plating/plating_catwalk,/area/mainship/hallways/port_hallway{outside = 0; name = "NTC Eagle Dropship"})
 "pQ" = (/obj/effect/landmark/start/job/requisitionsofficer,/obj/effect/landmark/start/job/requisitionsofficer,/obj/effect/landmark/start/job/requisitionsofficer,/obj/effect/landmark/start/job/requisitionsofficer,/obj/effect/landmark/start/latejoin,/turf/open/floor/mainship,/area/mainship/hallways/port_hallway{outside = 0; name = "NTC Eagle Dropship"})
 "tq" = (/obj/structure/window/framed/mainship/spaceworthy{icon_state = "col_window12"},/turf/open/space/transit/atmos,/area/mainship/hallways/port_hallway{outside = 0; name = "NTC Eagle Dropship"})
 "uq" = (/obj/structure/cable,/obj/machinery/door/poddoor/shutters/transit{dir = 2; id = "eagledoors"},/obj/effect/step_trigger/teleporter{name = "eagle_rappel"; teleport_x = 96; teleport_y = 111; teleport_z = 2},/turf/open/floor/mainship/cargo,/area/mainship/hallways/port_hallway{outside = 0; name = "NTC Eagle Dropship"})
-"va" = (/obj/structure/table/mainship,/obj/machinery/computer/station_alert,/turf/open/floor/mainship,/area/mainship/hallways/port_hallway{outside = 0; name = "NTC Eagle Dropship"})
+"va" = (/obj/structure/table/mainship,/obj/machinery/computer/shuttle/shuttle_control/dropship/two{possible_destinations = "lz1;lz2;hqlz1;hqlz2;alamo;normandy"},/turf/open/floor/mainship,/area/mainship/hallways/port_hallway{outside = 0; name = "NTC Eagle Dropship"})
 "vl" = (/obj/machinery/cryopod,/obj/machinery/light{dir = 4},/turf/open/floor/mainship,/area/mainship/hallways/port_hallway{outside = 0; name = "NTC Eagle Dropship"})
 "vD" = (/obj/structure/ladder{id = "eagleladder2"; height = 2},/turf/open/floor/plating/plating_catwalk,/area/mainship/hallways/port_hallway{outside = 0; name = "NTC Eagle Dropship"})
 "vV" = (/turf/closed/wall/mainship/outer,/area/space)
@@ -40,6 +41,7 @@
 "yi" = (/obj/structure/window/framed/mainship/spaceworthy{icon_state = "col_window1"},/obj/structure/window/framed/mainship/spaceworthy{icon_state = "col_window12"},/turf/open/floor/mainship_hull,/area/mainship/hallways/port_hallway{outside = 0; name = "NTC Eagle Dropship"})
 "yj" = (/obj/structure/cable,/obj/item/paper{name = "Note about rappeling"; info = "You may walk out the shuttle if you open the doors at to parachute down directly in front of the base, but it will break your minimap (You can remove and put your headset back on to fix it). You can still use the drop pods though, it's slower however. x96 x111"},/turf/open/floor/plating/plating_catwalk,/area/mainship/hallways/port_hallway{outside = 0; name = "NTC Eagle Dropship"})
 "yu" = (/obj/structure/cable,/turf/open/floor/plating/plating_catwalk,/area/mainship/hallways/port_hallway{outside = 0; name = "NTC Eagle Dropship"})
+"zq" = (/obj/docking_port/stationary/marine_dropship/hangar/two{name = "Security Checkpoint Entrance"},/turf/open/space/transit/atmos,/area/space)
 "zQ" = (/turf/open/space/transit/atmos,/area/space)
 "zU" = (/obj/structure/cable,/obj/machinery/telecomms/relay/preset/telecomms,/turf/closed/wall/mainship,/area/mainship/hallways/port_hallway{outside = 0; name = "NTC Eagle Dropship"})
 "Bq" = (/obj/machinery/cryopod/right,/turf/open/floor/mainship,/area/mainship/hallways/port_hallway{outside = 0; name = "NTC Eagle Dropship"})
@@ -52,7 +54,7 @@
 "HV" = (/obj/structure/cable,/obj/machinery/door_control{id = "eagledoors"; name = "NTC Eagle doors control"},/turf/closed/wall/mainship,/area/mainship/hallways/port_hallway{outside = 0; name = "NTC Eagle Dropship"})
 "KF" = (/obj/effect/landmark/start/job/squadleader,/obj/effect/landmark/start/job/squadleader,/obj/effect/landmark/start/job/squadleader,/obj/effect/landmark/start/job/squadleader,/obj/effect/landmark/start/job/squadleader,/obj/effect/landmark{name = "JoinLate"},/turf/open/floor/mainship,/area/mainship/hallways/port_hallway{outside = 0; name = "NTC Eagle Dropship"})
 "KW" = (/obj/machinery/light{dir = 1},/obj/machinery/marine_selector/clothes,/turf/open/floor/mainship,/area/mainship/hallways/port_hallway{outside = 0; name = "NTC Eagle Dropship"})
-"LK" = (/obj/structure/table/mainship,/obj/machinery/computer/security/marine_network,/obj/machinery/door_control{id = "eagledoors"; name = "NTC Eagle doors control"; pixel_x = 12; pixel_y = -5},/turf/open/floor/mainship,/area/mainship/hallways/port_hallway{outside = 0; name = "NTC Eagle Dropship"})
+"LK" = (/obj/structure/table/mainship,/obj/machinery/door_control{id = "eagledoors"; name = "NTC Eagle doors control"; pixel_x = 12; pixel_y = -5},/obj/machinery/computer/shuttle/shuttle_control/dropship{possible_destinations = "lz1;lz2;hqlz1;hqlz2;normandy;alamo"},/turf/open/floor/mainship,/area/mainship/hallways/port_hallway{outside = 0; name = "NTC Eagle Dropship"})
 "Ma" = (/obj/structure/cable,/obj/machinery/computer/navigation,/turf/open/floor/plating/plating_catwalk,/area/mainship/hallways/port_hallway{outside = 0; name = "NTC Eagle Dropship"})
 "MI" = (/obj/structure/cable,/obj/effect/landmark/start/job/crash/squadmarine,/obj/effect/landmark/start/job/crash/squadmarine,/obj/effect/landmark/start/job/crash/squadmarine,/obj/effect/landmark{name = "JoinLate"},/turf/open/floor/plating/plating_catwalk,/area/mainship/hallways/port_hallway{outside = 0; name = "NTC Eagle Dropship"})
 "MX" = (/obj/machinery/door/poddoor/shutters/transit{id = "eagledoors"},/obj/effect/step_trigger/teleporter{name = "eagle_rappel"; teleport_x = 96; teleport_y = 111; teleport_z = 2},/turf/open/floor/mainship/cargo,/area/mainship/hallways/port_hallway{outside = 0; name = "NTC Eagle Dropship"})
@@ -90,7 +92,7 @@ zQNuzQzQzQzQzQzQzQzQzQzQzQzQzQzQzQzQzQzQzQzQzQzQtqtqtqzQzQzQzQzQzQzQzQzQzQzQzQzQ
 zQNuzQzQzQzQzQzQzQzQzQzQzQzQzQzQzQzQzQzQzQzQzQUmyiMayiUmzQzQzQzQzQzQzQzQzQzQzQzQzQzQzQzQzQzQzQzQNuzQ
 zQNuzQzQzQzQzQzQzQzQzQzQzQzQzQzQzQzQzQzQzQzQzQwOLKVrvawOzQzQzQzQzQzQzQzQzQzQzQzQzQzQzQzQzQzQzQzQNuzQ
 zQNuzQzQzQzQzQzQzQzQzQzQzQzQzQzQzQzQzQzQzQzQzQwObNiCXwwOzQzQzQzQzQzQzQzQzQzQzQzQzQzQzQzQzQzQzQzQNuzQ
-zQNuzQzQzQzQzQzQzQzQzQzQzQzQzQzQzQzQzQzQzQzQgSUmGpUfGpUmgSzQzQzQzQzQzQzQzQzQzQzQzQzQzQzQzQzQzQzQNuzQ
+zQNuzQzQzQzQzQzQzQzQgWzQzQzQzQzQzQzQzQzQzQzQgSUmGpUfGpUmgSzQzQzQzQzQzQzQzQzQzQzQzqzQzQzQzQzQzQzQNuzQ
 zQNuzQzQzQzQzQzQzQzQzQzQzQzQzQzQzQzQzQzQzQgSUmnBWDfDvDUmUmgSzQzQzQzQzQzQzQzQzQzQzQzQzQzQzQzQzQzQNuzQ
 zQNuzQzQzQzQzQzQzQzQzQzQzQzQzQzQzQzQzQzQgSgSUmgpZIcvFlvlUmgSgSzQzQzQzQzQzQzQzQzQzQzQzQzQzQzQzQzQNuzQ
 zQNuzQzQzQzQzQzQzQzQzQzQzQzQzQzQzQzQzQgSgSgSmeBqpQRAcLkOmegSgSgSzQzQzQzQzQzQzQzQzQzQzQzQzQzQzQzQNuzQ
